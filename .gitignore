@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+animatic/node_modules/
+
+# Build and temp
+.remotion/
+animatic/.remotion/
+.turbo/
+*.log
+
+# Git portable tools
+animatic/tools/
+
+# Subagent logs and private caches
+.agents/
+.gemini/
+__pycache__/
+*.pyc
+
+# Large rendered output videos (supaya push GitHub tidak ditolak limit 100MB)
+animatic/out/*.mp4
+animatic/out/chunks/*.mp4
+!animatic/out/screenshots/*.jpg

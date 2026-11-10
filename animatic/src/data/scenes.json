@@ -1,0 +1,2645 @@
+[
+  {
+    "sceneNumber": 1,
+    "slugline": "INT. LAB PENGUJIAN MEKANIK DTMM - MALAM",
+    "locationName": "Laboratorium Pengujian Mekanik Gedung W FTIRS ITS",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "00:00",
+    "timecodeEnd": "03:00",
+    "durationSeconds": 180,
+    "durationFrames": 4320,
+    "startFrameCumulative": 0,
+    "endFrameCumulative": 4320,
+    "narrativeStage": "Masalah (Crisis)",
+    "charactersPresentIds": [
+      "hendro",
+      "fajar",
+      "danang",
+      "aryo",
+      "zul",
+      "nadia",
+      "kevin",
+      "dimas",
+      "kirana",
+      "farhan",
+      "maya",
+      "rere",
+      "bagas"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_1_01",
+        "shotNumber": 1,
+        "sceneId": 1,
+        "durationSeconds": 15,
+        "startFrame": 0,
+        "endFrame": 360,
+        "framing": {
+          "shotType": "ECU",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 60,
+          "zoomFactor": 1.4,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Spindel mikrometer sekrup analog Mitutoyo menjepit takik batang baja miring 55 derajat di bawah lampu meja 3000K.",
+        "dramaturgicalSubtext": "Membuka langsung pada akar krisis fisik material: cacat takik yang memicu kegagalan yudisium."
+      },
+      {
+        "shotId": "SHOT_1_02",
+        "shotNumber": 2,
+        "sceneId": 1,
+        "durationSeconds": 15,
+        "startFrame": 360,
+        "endFrame": 720,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 45,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Hendro menggelengkan kepala parau, menghela napas lelah, meletakkan mikrometer di atas meja kayu.",
+        "dramaturgicalSubtext": "Menegaskan beban fisik maraton 14 jam kerja mahasiswa teknik yang mendekati batas ketahanan mental."
+      },
+      {
+        "shotId": "SHOT_1_03",
+        "shotNumber": 3,
+        "sceneId": 1,
+        "durationSeconds": 25,
+        "startFrame": 720,
+        "endFrame": 1320,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Komposisi Z-Axis 3-Tier: Hendro (FG), Aryo, Nadia, Kevin, Fajar (MG), Danang dan Zul di pintu (BG).",
+        "dramaturgicalSubtext": "Komposisi spasial ensembel 14 mahasiswa; memperlihatkan isolasi dan kelelahan kolektif di lab."
+      },
+      {
+        "shotId": "SHOT_1_04",
+        "shotNumber": 4,
+        "sceneId": 1,
+        "durationSeconds": 20,
+        "startFrame": 1320,
+        "endFrame": 1800,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pan_right",
+          "horizontalPositionPercent": 60,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Nadia melangkah ke kotak beludru merah, menjepit spesimen terakhir dengan jangka sorong digital LCD.",
+        "dramaturgicalSubtext": "Titik harapan rapuh: penemuan spesimen terakhir yang menjadi objek kelangkaan mutlak."
+      },
+      {
+        "shotId": "SHOT_1_05",
+        "shotNumber": 5,
+        "sceneId": 1,
+        "durationSeconds": 20,
+        "startFrame": 1800,
+        "endFrame": 2280,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.2,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Wajah Kevin tegang menatap layar laptop membuka portal SIM ITS dengan kolom data kosong bertanda seru.",
+        "dramaturgicalSubtext": "Membangun tekanan hitung mundur waktu: jam dinding analog dan batas sistem online pukul 23:59 WIB."
+      },
+      {
+        "shotId": "SHOT_1_06",
+        "shotNumber": 6,
+        "sceneId": 1,
+        "durationSeconds": 25,
+        "startFrame": 2280,
+        "endFrame": 2880,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pan_left",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Pintu lab terbuka keras. Masuk Dimas dengan kemeja rapi membawa map kulit, diapit Kirana dan Farhan.",
+        "dramaturgicalSubtext": "Kontras visual kelas: Dimas berpenampilan profesional siap industri versus mahasiswa lab yang lusuh."
+      },
+      {
+        "shotId": "SHOT_1_07",
+        "shotNumber": 7,
+        "sceneId": 1,
+        "durationSeconds": 20,
+        "startFrame": 2880,
+        "endFrame": 3360,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas menuntut data kalibrasi dengan suara lantang menatap Fajar dan Aryo.",
+        "dramaturgicalSubtext": "Dominasi kekuasaan pragmatis: tuntutan industri migas yang tidak memberi toleransi kegagalan."
+      },
+      {
+        "shotId": "SHOT_1_08",
+        "shotNumber": 8,
+        "sceneId": 1,
+        "durationSeconds": 20,
+        "startFrame": 3360,
+        "endFrame": 3840,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas melangkah masuk tertatih dengan jaket hoodie pudar basah gerimis malam, diapit Maya dan Rere.",
+        "dramaturgicalSubtext": "Memperkenalkan kutub tandingan: kepedihan sunyi mahasiswa prasejahtera tanpa sokongan modal."
+      },
+      {
+        "shotId": "SHOT_1_09",
+        "shotNumber": 9,
+        "sceneId": 1,
+        "durationSeconds": 20,
+        "startFrame": 3840,
+        "endFrame": 4320,
+        "framing": {
+          "shotType": "OTS",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Aryo memandang kotak spesimen lalu menatap Dimas dan Bagas: 'Spesimen valid yang tersisa... mung siji iki.'",
+        "dramaturgicalSubtext": "Menutup Babak 1 dengan mengunci konflik tak terelakkan: dua orang yang membutuhkan satu objek penyelamat hidup."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D01_01_HENDRO",
+        "speakerId": "hendro",
+        "parenthetical": "(Suara serak, menggeleng pelan)",
+        "textOriginal": "Miring kabeh, Cik. Takik-V ne seket limo derajat. Bengkel bubute Jalan Demak ngawur motonge. Ora presisi blas karo standar ASTM.",
+        "textTranslationId": "Miring semua, Cik. Takik-V nya lima puluh lima derajat. Bengkel bubutnya Jalan Demak asal-asalan memotongnya. Tidak presisi sama sekali dengan standar ASTM.",
+        "startSeconds": 15.0,
+        "endSeconds": 24.5,
+        "startFrame": 360,
+        "endFrame": 588,
+        "highlightColorHex": "#9CA3AF"
+      },
+      {
+        "id": "D01_02_ARYO",
+        "speakerId": "aryo",
+        "parenthetical": "(Maju selangkah, napasnya tertahan)",
+        "textOriginal": "Sembilan-sembilannya gak iso diselamatkan babar blas, Hen? Gak iso dikikir manual tipis-tipis?",
+        "textTranslationId": "Sembilan-sembilannya tidak bisa diselamatkan sama sekali, Hen? Tidak bisa dikikir manual tipis-tipis?",
+        "startSeconds": 25.0,
+        "endSeconds": 31.0,
+        "startFrame": 600,
+        "endFrame": 744,
+        "highlightColorHex": "#38BDF8"
+      },
+      {
+        "id": "D01_03_HENDRO",
+        "speakerId": "hendro",
+        "parenthetical": "",
+        "textOriginal": "Konsentrasi tegangane bias total, Yo. Nek dipeksani diantem pendulum, grafike dadi sampah. Dosen penguji langsung ngerti nek takikane cacat.",
+        "textTranslationId": "Konsentrasi tegangannya bias total, Yo. Kalau dipaksakan dihantam pendulum, grafiknya jadi sampah. Dosen penguji langsung tahu kalau takikannya cacat.",
+        "startSeconds": 31.5,
+        "endSeconds": 41.0,
+        "startFrame": 756,
+        "endFrame": 984,
+        "highlightColorHex": "#9CA3AF"
+      },
+      {
+        "id": "D01_04_NADIA",
+        "speakerId": "nadia",
+        "parenthetical": "(Menatap angka display, menghembuskan napas lega)",
+        "textOriginal": "Iki gaweanmu dewe wingi sore kan, Hen?",
+        "textTranslationId": "Ini buatanmu sendiri kemarin sore kan, Hen?",
+        "startSeconds": 60.0,
+        "endSeconds": 65.0,
+        "startFrame": 1440,
+        "endFrame": 1560,
+        "highlightColorHex": "#38BDF8"
+      },
+      {
+        "id": "D01_05_HENDRO",
+        "speakerId": "hendro",
+        "parenthetical": "",
+        "textOriginal": "Iyo. Tak frais manual ning bengkel jurusan pas kalian kabeh meeting sponsor wingi. Mung siji iku sing lolos toleransi nol koma nol dua milimeter.",
+        "textTranslationId": "Iya. Saya frais manual di bengkel jurusan waktu kalian semua rapat sponsor kemarin. Cuma satu itu yang lolos toleransi nol koma nol dua milimeter.",
+        "startSeconds": 65.5,
+        "endSeconds": 74.0,
+        "startFrame": 1572,
+        "endFrame": 1776,
+        "highlightColorHex": "#9CA3AF"
+      },
+      {
+        "id": "D01_06_KEVIN",
+        "speakerId": "kevin",
+        "parenthetical": "(Menatap layar laptop, jemarinya mengetuk cemas)",
+        "textOriginal": "Masalahnya... cuma tersisa SATU spesimen valid ini! Sedangkan data uji impak sub-nol minus empat puluh derajat yang belum terisi di portal SIM ITS ada dua skripsi: skripsinya Dimas sama skripsinya Bagas!",
+        "textTranslationId": "Masalahnya... cuma tersisa SATU spesimen valid ini! Sedangkan data uji impak sub-nol minus empat puluh derajat yang belum terisi di portal SIM ITS ada dua skripsi: skripsinya Dimas sama skripsinya Bagas!",
+        "startSeconds": 76.0,
+        "endSeconds": 90.0,
+        "startFrame": 1824,
+        "endFrame": 2160,
+        "highlightColorHex": "#60A5FA"
+      },
+      {
+        "id": "D01_07_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Menatap jam tangan Casio digital, suara tegas menuntut)",
+        "textOriginal": "Wes beres kalibrasine, Jar? HRD Balikpapan barusan kirim email reminder penyerahan berkas BAP kelulusan terakhir jam dua tiga lima sembilan teng! Nek telat sak menit, kontrak kerjaku dioper ke cadangan dari UI!",
+        "textTranslationId": "Sudah beres kalibrasinya, Jar? HRD Balikpapan barusan kirim email pengingat penyerahan berkas BAP kelulusan terakhir jam dua puluh tiga lima puluh sembilan teng! Kalau telat satu menit, kontrak kerjaku dialihkan ke cadangan dari UI!",
+        "startSeconds": 121.0,
+        "endSeconds": 137.0,
+        "startFrame": 2904,
+        "endFrame": 3288,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D01_08_ARYO",
+        "speakerId": "aryo",
+        "parenthetical": "(Menelan ludah, memandang kotak spesimen lalu menatap Dimas dan Bagas bergantian)",
+        "textOriginal": "Dim... Gas... Kita punya masalah fatal. Dari sepuluh spesimen, sembilan afkir. Spesimen valid yang tersisa... mung siji iki.",
+        "textTranslationId": "Dim... Gas... Kita punya masalah fatal. Dari sepuluh spesimen, sembilan afkir. Spesimen valid yang tersisa... cuma satu ini.",
+        "startSeconds": 162.0,
+        "endSeconds": 176.0,
+        "startFrame": 3888,
+        "endFrame": 4224,
+        "highlightColorHex": "#38BDF8"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_01_ROOMTONE",
+        "category": "ambient",
+        "name": "Chiller Lab Room Tone",
+        "sourceDescription": "Dengung trafo neon TL dan kompresor chiller lab 50 Hz",
+        "targetDbfs": -24,
+        "loop": true,
+        "startSeconds": 0,
+        "durationSeconds": 180,
+        "startFrame": 0,
+        "endFrame": 4320,
+        "placeholderAssetPath": "/audio/ambient/lab_50hz_hum.mp3"
+      },
+      {
+        "id": "AUD_01_MICROMETER",
+        "category": "foley",
+        "name": "Ratchet Click Foley",
+        "sourceDescription": "Bunyi klik ratchet stop mikrometer sekrup logam",
+        "targetDbfs": -14,
+        "loop": false,
+        "startSeconds": 2.0,
+        "durationSeconds": 4.5,
+        "startFrame": 48,
+        "endFrame": 156,
+        "placeholderAssetPath": "/audio/foley/micrometer_ratchet.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_01_01",
+        "sceneId": 1,
+        "shotId": "SHOT_1_01",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 4200,
+          "keyLightColorHex": "#FDE68A",
+          "ambientIntensity": 0.65,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "hendro",
+            "xPercent": 50,
+            "yPercent": 75,
+            "scale": 1.2,
+            "zIndex": 30,
+            "expression": "exhausted",
+            "pose": "slouched_exhausted",
+            "mouthShape": "rest",
+            "facingDirection": "center"
+          },
+          {
+            "characterId": "aryo",
+            "xPercent": 40,
+            "yPercent": 60,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Serious",
+            "pose": "standing",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "kevin",
+            "xPercent": 70,
+            "yPercent": 65,
+            "scale": 0.95,
+            "zIndex": 20,
+            "expression": "Nervous",
+            "pose": "sitting",
+            "mouthShape": "rest",
+            "facingDirection": "left"
+          }
+        ],
+        "activeProps": [
+          {
+            "propId": "P05_MICROMETER",
+            "heldByCharacterId": "hendro",
+            "position": {
+              "xPercent": 50,
+              "yPercent": 65
+            },
+            "stateDescription": "Menjepit kupon baja miring 55 derajat"
+          }
+        ]
+      },
+      {
+        "id": "VC_01_02",
+        "sceneId": 1,
+        "shotId": "SHOT_1_06",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 4200,
+          "keyLightColorHex": "#F1F5F9",
+          "ambientIntensity": 0.65,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "dimas",
+            "xPercent": 25,
+            "yPercent": 65,
+            "scale": 1.05,
+            "zIndex": 30,
+            "expression": "Serious",
+            "pose": "walking",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "bagas",
+            "xPercent": 15,
+            "yPercent": 65,
+            "scale": 0.98,
+            "zIndex": 28,
+            "expression": "Sad",
+            "pose": "walking",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          }
+        ],
+        "activeProps": []
+      }
+    ]
+  },
+  {
+    "sceneNumber": 2,
+    "slugline": "INT. LAB PENGUJIAN MEKANIK DTMM - MALAM",
+    "locationName": "Laboratorium Pengujian Mekanik FTIRS ITS — Sudut Dewar & Meja Utama",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "03:00",
+    "timecodeEnd": "05:30",
+    "durationSeconds": 150,
+    "durationFrames": 3600,
+    "startFrameCumulative": 4320,
+    "endFrameCumulative": 7920,
+    "narrativeStage": "Konflik (Conflict)",
+    "charactersPresentIds": [
+      "fajar",
+      "aryo",
+      "dimas",
+      "bagas",
+      "farhan",
+      "hendro",
+      "kirana",
+      "rere",
+      "kevin",
+      "danang",
+      "reza",
+      "zul",
+      "nadia",
+      "maya"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_2_01",
+        "shotNumber": 10,
+        "sceneId": 2,
+        "durationSeconds": 20,
+        "startFrame": 4320,
+        "endFrame": 4800,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 35,
+          "verticalPositionPercent": 65,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Fajar berlutut di dekat tabung dewar, memutar katup ventilasi. Uap putih dingin meluap ke lantai.",
+        "dramaturgicalSubtext": "Mengonfirmasi kelangkaan lapis kedua: nitrogen cair bocor dan hanya cukup untuk satu siklus uji."
+      },
+      {
+        "shotId": "SHOT_2_02",
+        "shotNumber": 11,
+        "sceneId": 2,
+        "durationSeconds": 20,
+        "startFrame": 4800,
+        "endFrame": 5280,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Wajah Fajar panik: 'Siji spesimen, sak rendeman, sak ayunan pendulum! Gak ono kesempatan kedua!'",
+        "dramaturgicalSubtext": "Menghancurkan opsi alternatif teknis; dramaturgi mengunci para karakter ke dalam pilihan zero-sum mutlak."
+      },
+      {
+        "shotId": "SHOT_2_03",
+        "shotNumber": 12,
+        "sceneId": 2,
+        "durationSeconds": 20,
+        "startFrame": 5280,
+        "endFrame": 5760,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_push_in",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.05,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas melangkah maju dua langkah besar ke meja lab, membanting bukti transfer bank BCA Rp 4.500.000.",
+        "dramaturgicalSubtext": "Aksi fisik membanting bukti transfer adalah manifestasi konkret klaim hak borjuis atas dasar modal finansial."
+      },
+      {
+        "shotId": "SHOT_2_04",
+        "shotNumber": 13,
+        "sceneId": 2,
+        "durationSeconds": 15,
+        "startFrame": 5760,
+        "endFrame": 6120,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.3,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bukti transfer bank BCA tinta biru bersanding dengan lembar kontrak kerja. Tangan Dimas menunjuk angka Rp 4.500.000.",
+        "dramaturgicalSubtext": "Detail visual bukti materiel: penonton melihat fakta nyata investasi pribadi Dimas."
+      },
+      {
+        "shotId": "SHOT_2_05",
+        "shotNumber": 14,
+        "sceneId": 2,
+        "durationSeconds": 25,
+        "startFrame": 6120,
+        "endFrame": 6720,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 55,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas berbicara lantang menuntut hak prioritas: menyetor 75% dana bahan baku, Bagas hanya menyetor Rp 200.000.",
+        "dramaturgicalSubtext": "Ekspresi kemarahan pragmatis: Dimas merasa tindakannya bukan keserakahan, melainkan keadilan finansial."
+      },
+      {
+        "shotId": "SHOT_2_06",
+        "shotNumber": 15,
+        "sceneId": 2,
+        "durationSeconds": 20,
+        "startFrame": 6720,
+        "endFrame": 7200,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 65,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Kirana berdiri di sisi Dimas, memaparkan fakta rasional industri dan indeks serapan angkatan.",
+        "dramaturgicalSubtext": "Memperkuat posisi Dimas dengan legitimasi institusional kampus tanpa terdengar antagonis klise."
+      },
+      {
+        "shotId": "SHOT_2_07",
+        "shotNumber": 16,
+        "sceneId": 2,
+        "durationSeconds": 15,
+        "startFrame": 7200,
+        "endFrame": 7560,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.2,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Wajah Bagas tertunduk kaku, bibirnya bergetar: 'Dim... aku wes telung wulan nginep ning lab iki...'",
+        "dramaturgicalSubtext": "Subteks penderitaan fisik dan psikologis; membenturkan pengorbanan modal uang versus pengorbanan keringat tenaga."
+      },
+      {
+        "shotId": "SHOT_2_08",
+        "shotNumber": 17,
+        "sceneId": 2,
+        "durationSeconds": 15,
+        "startFrame": 7560,
+        "endFrame": 7920,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Two-Shot profil kontras Dimas yang dingin berhadapan dengan Bagas yang tertunduk lesu. Rere melangkah maju.",
+        "dramaturgicalSubtext": "Polaritas dramaturgis tajam: dua sahabat seangkatan yang terbelah oleh jurang stratifikasi ekonomi."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D02_01_FAJAR",
+        "speakerId": "fajar",
+        "parenthetical": "(Menutup katup dengan kunci pas, suara bergetar panik)",
+        "textOriginal": "Bocor, rek! Seal karet isolasi tabung dewar e rembes kawit awan mau! Nitrogen cair e mung sisa seliter setengah ning dasar bejana!",
+        "textTranslationId": "Bocor, rek! Seal karet isolasi tabung dewar rembes dari siang tadi! Nitrogen cairnya cuma sisa satu setengah liter di dasar bejana!",
+        "startSeconds": 185.0,
+        "endSeconds": 196.0,
+        "startFrame": 4440,
+        "endFrame": 4704,
+        "highlightColorHex": "#10B981"
+      },
+      {
+        "id": "D02_02_FARHAN",
+        "speakerId": "farhan",
+        "parenthetical": "(Maju mendekat, melongok ke mulut bejana beruap)",
+        "textOriginal": "Mosok gak cukup gae loroan, Jar? Celupno sediluk ae lak wes adem ta logame!",
+        "textTranslationId": "Masa tidak cukup untuk berdua, Jar? Celupkan sebentar saja kan sudah dingin logamnya!",
+        "startSeconds": 197.0,
+        "endSeconds": 204.0,
+        "startFrame": 4728,
+        "endFrame": 4896,
+        "highlightColorHex": "#EF4444"
+      },
+      {
+        "id": "D02_03_FAJAR",
+        "speakerId": "fajar",
+        "parenthetical": "(Mendongak tajam menatap Farhan)",
+        "textOriginal": "Standar ASTM E23 sub-nol iku minus patang puluh derajat celcius, kudu direndam stabil minimal limalas menit! Nek volume nitrogen e sakmene, mung cukup gae sak rendeman! Begitu wadah pendingine dibuka, hawane langsung nguap entek! Siji spesimen, sak rendeman, sak ayunan pendulum! Gak ono kesempatan kedua!",
+        "textTranslationId": "Standar ASTM E23 sub-nol itu minus empat puluh derajat celcius, harus direndam stabil minimal lima belas menit! Kalau volume nitrogennya segini, cuma cukup untuk satu rendaman! Begitu wadah pendinginnya dibuka, hawanya langsung menguap habis! Satu spesimen, satu rendaman, satu ayunan pendulum! Tidak ada kesempatan kedua!",
+        "startSeconds": 205.0,
+        "endSeconds": 219.0,
+        "startFrame": 4920,
+        "endFrame": 5256,
+        "highlightColorHex": "#10B981"
+      },
+      {
+        "id": "D02_04_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Suara lantang, memotong perdebatan)",
+        "textOriginal": "Rungokno aku kabeh! Beli ingot baja paduan padat iki total enem juta rupiah! Papat setengah juta iku duit tabungan pribadiku dewe sing tak setor ning bendahara kelompok! Bagas mung setor rongatus ewu perak! Secara hak kepemilikan materiil dan investasi legal, aku sing berhak nguji spesimen terakhir iki!",
+        "textTranslationId": "Dengarkan saya semua! Beli ingot baja paduan padat ini total enam juta rupiah! Empat setengah juta itu uang tabungan pribadi saya sendiri yang saya setor ke bendahara kelompok! Bagas cuma setor dua ratus ribu perak! Secara hak kepemilikan materiel dan investasi legal, saya yang berhak menguji spesimen terakhir ini!",
+        "startSeconds": 245.0,
+        "endSeconds": 270.0,
+        "startFrame": 5880,
+        "endFrame": 6480,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D02_05_KIRANA",
+        "speakerId": "kirana",
+        "parenthetical": "(Mengangguk mantap, menatap Aryo dan Kevin)",
+        "textOriginal": "Secara rasional industri ini jelas, Yo. Kontrak Dimas di Balikpapan ini membawa nama almamater DTMM ITS di kancah migas nasional. Besok jam sembilan pagi BAP kelulusan harus masuk meja HRD. Kalau posisi ini lepas, indeks keterserapan lulusan angkatan kita anjlok!",
+        "textTranslationId": "Secara rasional industri ini jelas, Yo. Kontrak Dimas di Balikpapan ini membawa nama almamater DTMM ITS di kancah migas nasional. Besok jam sembilan pagi BAP kelulusan harus masuk meja HRD. Kalau posisi ini lepas, indeks keterserapan lulusan angkatan kita anjlok!",
+        "startSeconds": 281.0,
+        "endSeconds": 298.0,
+        "startFrame": 6744,
+        "endFrame": 7152,
+        "highlightColorHex": "#C084FC"
+      },
+      {
+        "id": "D02_06_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "(Menundukkan kepala semakin dalam, suaranya tercekat di tenggorokan)",
+        "textOriginal": "Dim... aku wes telung wulan nginep ning lab iki...",
+        "textTranslationId": "Dim... saya sudah tiga bulan menginap di lab ini...",
+        "startSeconds": 301.0,
+        "endSeconds": 308.0,
+        "startFrame": 7224,
+        "endFrame": 7392,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D02_07_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Menoleh cepat ke arah Bagas, memotong dingin)",
+        "textOriginal": "Kabeh wong ning kene yo nginep ning lab, Gas! Dudu kowe tok sing kesel! Tapi dunia profesional iku gak mlaku teko rasa melas, dunia industri iku mlaku teko sopo sing nandur modal lan duwe kepastian!",
+        "textTranslationId": "Semua orang di sini juga menginap di lab, Gas! Bukan kamu saja yang lelah! Tapi dunia profesional itu tidak berjalan dari rasa kasihan, dunia industri itu berjalan dari siapa yang menanam modal dan punya kepastian!",
+        "startSeconds": 309.0,
+        "endSeconds": 324.0,
+        "startFrame": 7416,
+        "endFrame": 7776,
+        "highlightColorHex": "#DC2626"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_02_DEWAR_HISS",
+        "category": "foley",
+        "name": "Dewar Gas Hiss",
+        "sourceDescription": "Desisan uap nitrogen cair saat katup dibuka",
+        "targetDbfs": -16,
+        "loop": true,
+        "startSeconds": 180,
+        "durationSeconds": 35,
+        "startFrame": 4320,
+        "endFrame": 5160,
+        "placeholderAssetPath": "/audio/foley/dewar_gas_hiss.mp3"
+      },
+      {
+        "id": "AUD_02_PAPER_SLAM",
+        "category": "foley",
+        "name": "Paper Slam Foley",
+        "sourceDescription": "Bantingan keras map dokumen dan berkas transfer ke meja kayu",
+        "targetDbfs": -12,
+        "loop": false,
+        "startSeconds": 220,
+        "durationSeconds": 1.5,
+        "startFrame": 5280,
+        "endFrame": 5316,
+        "placeholderAssetPath": "/audio/foley/paper_slam.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_02_01",
+        "sceneId": 2,
+        "shotId": "SHOT_2_03",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 4200,
+          "keyLightColorHex": "#F1F5F9",
+          "ambientIntensity": 0.65,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "dimas",
+            "xPercent": 55,
+            "yPercent": 70,
+            "scale": 1.05,
+            "zIndex": 30,
+            "expression": "Angry",
+            "pose": "talking",
+            "mouthShape": "wide_open",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "bagas",
+            "xPercent": 35,
+            "yPercent": 70,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Sad",
+            "pose": "looking_left",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "fajar",
+            "xPercent": 20,
+            "yPercent": 75,
+            "scale": 0.95,
+            "zIndex": 20,
+            "expression": "Confused",
+            "pose": "sitting",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "kirana",
+            "xPercent": 65,
+            "yPercent": 65,
+            "scale": 0.98,
+            "zIndex": 22,
+            "expression": "Serious",
+            "pose": "standing",
+            "mouthShape": "rest",
+            "facingDirection": "left"
+          }
+        ],
+        "activeProps": [
+          {
+            "propId": "P01_BCA_TRANSFER",
+            "heldByCharacterId": "dimas",
+            "position": {
+              "xPercent": 50,
+              "yPercent": 65
+            },
+            "stateDescription": "Dibanting ke atas meja kayu di hadapan Aryo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sceneNumber": 3,
+    "slugline": "INT. LAB PENGUJIAN MEKANIK DTMM - MALAM",
+    "locationName": "Laboratorium Pengujian Mekanik FTIRS ITS — Koridor Meja Uji & Terminal PC",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "05:30",
+    "timecodeEnd": "08:30",
+    "durationSeconds": 180,
+    "durationFrames": 4320,
+    "startFrameCumulative": 7920,
+    "endFrameCumulative": 12240,
+    "narrativeStage": "Pilihan Moral (Ethical Choice)",
+    "charactersPresentIds": [
+      "rere",
+      "maya",
+      "reza",
+      "dimas",
+      "kirana",
+      "bagas",
+      "farhan",
+      "kevin",
+      "danang",
+      "aryo",
+      "zul",
+      "nadia",
+      "fajar",
+      "hendro"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_3_01",
+        "shotNumber": 18,
+        "sceneId": 3,
+        "durationSeconds": 25,
+        "startFrame": 7920,
+        "endFrame": 8520,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Rere menantang Dimas, menuding bukti transfer: Bagas semester 10 di ambang DO, ayahnya stroke di Blitar!",
+        "dramaturgicalSubtext": "Mengubah peta konflik dari persoalan uang menjadi penyelamatan martabat hidup manusia yang tertindas."
+      },
+      {
+        "shotId": "SHOT_3_02",
+        "shotNumber": 19,
+        "sceneId": 3,
+        "durationSeconds": 20,
+        "startFrame": 8520,
+        "endFrame": 9000,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 35,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Reza bersuara berat: kampus teknik negeri bukan pasar lelang modal tempat membeli kelulusan kawan!",
+        "dramaturgicalSubtext": "Subteks keadilan sosial murni yang lahir dari ketidakadilan sistemik, tanpa jargon doktriner."
+      },
+      {
+        "shotId": "SHOT_3_03",
+        "shotNumber": 20,
+        "sceneId": 3,
+        "durationSeconds": 20,
+        "startFrame": 9000,
+        "endFrame": 9480,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pan_left",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Danang maju ke tengah menyodorkan botol air mineral terbuka meredam tensi perdebatan.",
+        "dramaturgicalSubtext": "Gestur rekonsiliasi organik mahasiswa biasa yang cemas akan perpecahan ikatan persahabatan."
+      },
+      {
+        "shotId": "SHOT_3_04",
+        "shotNumber": 21,
+        "sceneId": 3,
+        "durationSeconds": 20,
+        "startFrame": 9480,
+        "endFrame": 9960,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "tilt_up",
+          "horizontalPositionPercent": 60,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Farhan melompat duduk di meja terminal PC lab, merangkul Aryo dan Kevin menawarkan 'jalan pintas cerdas'.",
+        "dramaturgicalSubtext": "Menghadirkan godaan moral kontemporer: godaan efisiensi pragmatis melalui jalan curang digital."
+      },
+      {
+        "shotId": "SHOT_3_05",
+        "shotNumber": 22,
+        "sceneId": 3,
+        "durationSeconds": 20,
+        "startFrame": 9960,
+        "endFrame": 10440,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.3,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Layar monitor PC lab menampilkan OriginLab dan CSV. Farhan mengusulkan manipulasi angka koma.",
+        "dramaturgicalSubtext": "Visualisasi manipulasi data digital: godaan kejahatan intelektual yang terlihat sangat sepele."
+      },
+      {
+        "shotId": "SHOT_3_06",
+        "shotNumber": 23,
+        "sceneId": 3,
+        "durationSeconds": 25,
+        "startFrame": 10440,
+        "endFrame": 11040,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 60,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Kevin memegang kacamatanya, memperingatkan risiko pencabutan gelar jika verifikasi mendeteksi deviasi identik.",
+        "dramaturgicalSubtext": "Suara kehati-hatian teknis akademis; kecemasan objektif terhadap reputasi ilmiah."
+      },
+      {
+        "shotId": "SHOT_3_07",
+        "shotNumber": 24,
+        "sceneId": 3,
+        "durationSeconds": 25,
+        "startFrame": 11040,
+        "endFrame": 11640,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Farhan meminta voting: sembilan tangan terangkat di udara di bawah neon lab menyetujui manipulasi data.",
+        "dramaturgicalSubtext": "Menampilkan bahaya tirani mayoritas: ketika kebohongan disepakati demi kenyamanan bersama."
+      },
+      {
+        "shotId": "SHOT_3_08",
+        "shotNumber": 25,
+        "sceneId": 3,
+        "durationSeconds": 25,
+        "startFrame": 11640,
+        "endFrame": 12240,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas menatap tangan-tangan yang terangkat dengan pandangan hancur. Maya merangkul bahu Bagas yang gemetar.",
+        "dramaturgicalSubtext": "Reaksi emosional korban: kejujuran yang diperjuangkannya hampir dilindas oleh konsensus instan."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D03_01_RERE",
+        "speakerId": "rere",
+        "parenthetical": "(Suara bergetar menahan amarah, menuding bukti transfer Dimas)",
+        "textOriginal": "Koe sombong pol goro-goro duwe duit patang juta setengah, Dim! Duit sakmono iso mbok golek maneh pas kerjo! Tapi Bagas iki semester sepuluh, beasiswa Bidikmisi ne wes entek resik kawit semester wolu! Nek bengi iki ora unggah BAP kelulusan, sesuk esuk jam wolu metu SK Drop Out teko Rektorat! Bapak e stroke ning Blitar, adike wedok kelas telu SMA ape pedot sekolah nek Bagas di-DO! Opo kui kabeh ora luwih penting teko kontrak kerjomu sing iso mbok jupuk taun ngarep?!",
+        "textTranslationId": "Kamu sombong sekali gara-gara punya uang empat juta setengah, Dim! Uang segitu bisa kamu cari lagi saat kerja! Tapi Bagas ini semester sepuluh, beasiswa Bidikmisinya sudah habis bersih sejak semester delapan! Kalau malam ini tidak unggah BAP kelulusan, besok pagi jam delapan keluar SK Drop Out dari Rektorat! Bapaknya stroke di Blitar, adik perempuannya kelas tiga SMA mau putus sekolah kalau Bagas di-DO! Apa itu semua tidak lebih penting dari kontrak kerjamu yang bisa kamu ambil tahun depan?!",
+        "startSeconds": 331.0,
+        "endSeconds": 354.0,
+        "startFrame": 7944,
+        "endFrame": 8496,
+        "highlightColorHex": "#EA580C"
+      },
+      {
+        "id": "D03_02_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Mata memerah, urat lehernya menegang)",
+        "textOriginal": "Ojo nggowo-nggowo urusan kemiskinan keluarga ning kene, Re! Aku ning kene berjuang gae uripku dewe! Kabeh wong duwe beban urip, ojo nggawe penderitaan dadi senjata gae mbajak hak e wong liyo!",
+        "textTranslationId": "Jangan bawa-bawa urusan kemiskinan keluarga di sini, Re! Saya di sini berjuang untuk hidup saya sendiri! Semua orang punya beban hidup, jangan jadikan penderitaan sebagai senjata untuk membajak hak orang lain!",
+        "startSeconds": 355.0,
+        "endSeconds": 366.0,
+        "startFrame": 8520,
+        "endFrame": 8784,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D03_03_REZA",
+        "speakerId": "reza",
+        "parenthetical": "(Melangkah maju, suaranya berat menggelegar)",
+        "textOriginal": "Iki dudu mbajak hak, Dim! Iki keadilan sosial! Kampus teknik negeri iki didegno gae ngangkat martabat anak bangsa, dudu pasar lelang nggone wong sing duwe modal tuku kelulusan kancane dewe!",
+        "textTranslationId": "Ini bukan membajak hak, Dim! Ini keadilan sosial! Kampus teknik negeri ini didirikan untuk mengangkat martabat anak bangsa, bukan pasar lelang tempat orang yang punya modal membeli kelulusan temannya sendiri!",
+        "startSeconds": 367.0,
+        "endSeconds": 379.0,
+        "startFrame": 8808,
+        "endFrame": 9096,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D03_04_KIRANA",
+        "speakerId": "kirana",
+        "parenthetical": "(Memotong tenang namun tajam)",
+        "textOriginal": "Reza, jangan bawa retorika jalanan ke dalam laboratorium ilmiah! Kita bicara fakta objektif: waktu tinggal tiga jam. Kalau kita habiskan waktu saling menghakimi moral, dua-duanya gak akan lulus malam ini!",
+        "textTranslationId": "Reza, jangan bawa retorika jalanan ke dalam laboratorium ilmiah! Kita bicara fakta objektif: waktu tinggal tiga jam. Kalau kita habiskan waktu saling menghakimi moral, dua-duanya tidak akan lulus malam ini!",
+        "startSeconds": 380.0,
+        "endSeconds": 391.0,
+        "startFrame": 9120,
+        "endFrame": 9384,
+        "highlightColorHex": "#C084FC"
+      },
+      {
+        "id": "D03_05_DANANG",
+        "speakerId": "danang",
+        "parenthetical": "(Maju ke tengah sambil menyodorkan botol air mineral terbuka)",
+        "textOriginal": "Uwis ta, rek... istighfar... Ayo diomongno apik-apik lungguh bareng, ojo sampek antem-anteman ning njero lab...",
+        "textTranslationId": "Sudahlah, kawan-kawan... istighfar... Mari dibicarakan baik-baik duduk bersama, jangan sampai baku hantam di dalam lab...",
+        "startSeconds": 392.0,
+        "endSeconds": 401.0,
+        "startFrame": 9408,
+        "endFrame": 9624,
+        "highlightColorHex": "#0D9488"
+      },
+      {
+        "id": "D03_06_FARHAN",
+        "speakerId": "farhan",
+        "parenthetical": "(Suara santai, mengayunkan tangan menenangkan)",
+        "textOriginal": "Cik, rek, kanca-kancaku sing tak tresnani! Lapo seh geger koyok pasar turi bengi-bengi?! Solusine iku gampang pol, gak usah drama tangis-tangisan! Rungokno Kancil sediluk! Spesimen siji iki diuji saiki nganggo jenenge Bagas ning mesin Charpy. Nah, engkok file mentah CSV kurva impak e teko komputer lab dicopy-paste gae Dimas! Tinggal diowahi angka komane titik ning OriginLab karo Excel, kurva absorpsine digeser nol koma sekian Joule! Dosen penguji karo reviewer SIM ITS gak bakal ngecek sampek resolusi mikron, rek! Loro-lorone lulus bareng, besok Dimas budhal nang Balikpapan, Bagas oleh ijazah, beres toh?!",
+        "textTranslationId": "Kawan-kawanku yang saya cintai! Mengapa ribut seperti pasar turi malam-malam?! Solusinya gampang sekali, tidak usah drama tangis-tangisan! Dengarkan Kancil sebentar! Spesimen satu ini diuji sekarang memakai namanya Bagas di mesin Charpy. Nah, nanti file mentah CSV kurva impaknya dari komputer lab dicopy-paste untuk Dimas! Tinggal diubah angka komanya sedikit di OriginLab dan Excel, kurva absorpsinya digeser nol koma sekian Joule! Dosen penguji dan reviewer SIM ITS tidak akan memeriksa sampai resolusi mikron, rek! Dua-duanya lulus bersama, besok Dimas berangkat ke Balikpapan, Bagas dapat ijazah, beres kan?!",
+        "startSeconds": 404.0,
+        "endSeconds": 430.0,
+        "startFrame": 9696,
+        "endFrame": 10320,
+        "highlightColorHex": "#EF4444"
+      },
+      {
+        "id": "D03_07_KEVIN",
+        "speakerId": "kevin",
+        "parenthetical": "(Memegang kacamata, napasnya memburu cemas)",
+        "textOriginal": "Tapi Han... kalau komite etik verifikasi memeriksa deviasi patahan mikroskopisnya identik... kita semua kena sanksi pencabutan gelar!",
+        "textTranslationId": "Tapi Han... kalau komite etik verifikasi memeriksa deviasi patahan mikroskopisnya identik... kita semua kena sanksi pencabutan gelar!",
+        "startSeconds": 440.0,
+        "endSeconds": 452.0,
+        "startFrame": 10560,
+        "endFrame": 10848,
+        "highlightColorHex": "#60A5FA"
+      },
+      {
+        "id": "D03_08_FARHAN",
+        "speakerId": "farhan",
+        "parenthetical": "",
+        "textOriginal": "Gak bakal konangan nek aku sing ngedit, Vin! Santai ta lah! Ayo wis, voting saiki! Sopo sing setuju solusi cerdas iki, angkat tangan biar kabeh wisuda bareng minggu ngarep!",
+        "textTranslationId": "Tidak akan ketahuan kalau saya yang mengedit, Vin! Santai sajalah! Ayo sudah, voting sekarang! Siapa yang setuju solusi cerdas ini, angkat tangan agar semua wisuda bersama minggu depan!",
+        "startSeconds": 454.0,
+        "endSeconds": 470.0,
+        "startFrame": 10896,
+        "endFrame": 11280,
+        "highlightColorHex": "#EF4444"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_03_CHAIR_CREAK",
+        "category": "foley",
+        "name": "Lab Chair Creak",
+        "sourceDescription": "Decit hidrolik kursi putar lab saat Bagas tertekan",
+        "targetDbfs": -18,
+        "loop": false,
+        "startSeconds": 330,
+        "durationSeconds": 2.0,
+        "startFrame": 7920,
+        "endFrame": 7968,
+        "placeholderAssetPath": "/audio/foley/chair_creak.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_03_01",
+        "sceneId": 3,
+        "shotId": "SHOT_3_07",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 4200,
+          "keyLightColorHex": "#F1F5F9",
+          "ambientIntensity": 0.65,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "farhan",
+            "xPercent": 70,
+            "yPercent": 60,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Happy",
+            "pose": "talking",
+            "mouthShape": "wide_open",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "rere",
+            "xPercent": 40,
+            "yPercent": 70,
+            "scale": 0.95,
+            "zIndex": 28,
+            "expression": "Angry",
+            "pose": "standing",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "kevin",
+            "xPercent": 60,
+            "yPercent": 65,
+            "scale": 0.95,
+            "zIndex": 22,
+            "expression": "Nervous",
+            "pose": "looking_right",
+            "mouthShape": "rest",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "zul",
+            "xPercent": 85,
+            "yPercent": 60,
+            "scale": 1.02,
+            "zIndex": 15,
+            "expression": "Suspicious",
+            "pose": "head_movement",
+            "mouthShape": "rest",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "bagas",
+            "xPercent": 30,
+            "yPercent": 70,
+            "scale": 0.98,
+            "zIndex": 24,
+            "expression": "Disappointed",
+            "pose": "sitting",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          }
+        ],
+        "activeProps": []
+      }
+    ]
+  },
+  {
+    "sceneNumber": 4,
+    "slugline": "INT. LAB PENGUJIAN MEKANIK DTMM - MALAM",
+    "locationName": "Laboratorium Pengujian Mekanik FTIRS ITS — Meja Bundar Diskusi",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "08:30",
+    "timecodeEnd": "11:30",
+    "durationSeconds": 180,
+    "durationFrames": 4320,
+    "startFrameCumulative": 12240,
+    "endFrameCumulative": 16560,
+    "narrativeStage": "Konsekuensi (Vulnerability)",
+    "charactersPresentIds": [
+      "nadia",
+      "farhan",
+      "aryo",
+      "dimas",
+      "bagas",
+      "maya",
+      "rere",
+      "zul",
+      "kevin",
+      "danang",
+      "reza",
+      "kirana",
+      "fajar",
+      "hendro"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_4_01",
+        "shotNumber": 26,
+        "sceneId": 4,
+        "durationSeconds": 15,
+        "startFrame": 12240,
+        "endFrame": 12600,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 70,
+          "zoomFactor": 1.2,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Tangan Nadia menyentak kabel colokan listrik hitam PC dari stopkontak dinding: PLUK! Layar PC padam seketika.",
+        "dramaturgicalSubtext": "Aksi fisik radikal: menghentikan tirani voting manipulasi dengan memutus sumber dayanya."
+      },
+      {
+        "shotId": "SHOT_4_02",
+        "shotNumber": 27,
+        "sceneId": 4,
+        "durationSeconds": 25,
+        "startFrame": 12600,
+        "endFrame": 13200,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Nadia berdiri tegak menatap tajam seluruh ruangan berpidato keras soal etika profesi insinyur.",
+        "dramaturgicalSubtext": "Penegakan etika profesional insinyur material; integritas ilmiah adalah benteng terakhir keselamatan publik."
+      },
+      {
+        "shotId": "SHOT_4_03",
+        "shotNumber": 28,
+        "sceneId": 4,
+        "durationSeconds": 20,
+        "startFrame": 13200,
+        "endFrame": 13680,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pan_left",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Aryo mengangkat wajahnya yang basah oleh keringat: 'Nadia bener. Opsi rekayasa data mati.' Tangan-tangan turun.",
+        "dramaturgicalSubtext": "Kepemimpinan moral yang kembali tegak: Aryo menolak kompromi instan dan siap menanggung risiko."
+      },
+      {
+        "shotId": "SHOT_4_04",
+        "shotNumber": 29,
+        "sceneId": 4,
+        "durationSeconds": 20,
+        "startFrame": 13680,
+        "endFrame": 14160,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "slow_push_in",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas terhempas duduk di bangku lab di bawah kolam cahaya meja 3000K (chiaroscuro). Tubuhnya bergetar.",
+        "dramaturgicalSubtext": "Titik runtuhnya benteng pertahanan ego Dimas; kepalsuan arogansi modal mulai retak dari dalam batin."
+      },
+      {
+        "shotId": "SHOT_4_05",
+        "shotNumber": 30,
+        "sceneId": 4,
+        "durationSeconds": 30,
+        "startFrame": 14160,
+        "endFrame": 14880,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.25,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas menangis parau, membongkar rahasianya: bapak kena PHK semen Gresik, rumah digadaikan ke rentenir demi UKT.",
+        "dramaturgicalSubtext": "Membalikkan persepsi penonton: Dimas bukan anak orang kaya yang tamak, melainkan anak buruh terhimpit utang."
+      },
+      {
+        "shotId": "SHOT_4_06",
+        "shotNumber": 31,
+        "sceneId": 4,
+        "durationSeconds": 20,
+        "startFrame": 14880,
+        "endFrame": 15360,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 35,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Rere menutup mulut menangis haru. Maya tertegun dengan mata merebak. Reza mundur kehilangan kata-kata.",
+        "dramaturgicalSubtext": "Rekonsiliasi empati kelompok: seluruh mahasiswa menyadari bahwa mereka sama-sama terluka dan terhimpit."
+      },
+      {
+        "shotId": "SHOT_4_07",
+        "shotNumber": 32,
+        "sceneId": 4,
+        "durationSeconds": 20,
+        "startFrame": 15360,
+        "endFrame": 15840,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "slow_push_in",
+          "horizontalPositionPercent": 45,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas melangkah mendekati meja bundar, merogoh saku jaketnya, mengeluarkan kwitansi merah muda RSUD Blitar.",
+        "dramaturgicalSubtext": "Aksi altruisme murni: Bagas membalas benturan modal Dimas dengan keikhlasan pengorbanan yang tak ternilai."
+      },
+      {
+        "shotId": "SHOT_4_08",
+        "shotNumber": 33,
+        "sceneId": 4,
+        "durationSeconds": 20,
+        "startFrame": 15840,
+        "endFrame": 16320,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas meletakkan kwitansi di samping tangan Dimas: 'Dim... jupuken spesimene. Omahmu luwih penting.'",
+        "dramaturgicalSubtext": "Puncak dramaturgis Dark Night of the Soul: cinta persaudaraan sejati meluruhkan seluruh kalkulasi duniawi."
+      },
+      {
+        "shotId": "SHOT_4_09",
+        "shotNumber": 34,
+        "sceneId": 4,
+        "durationSeconds": 10,
+        "startFrame": 16320,
+        "endFrame": 16560,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 75,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Zul di kusen pintu melepaskan tangannya, menundukkan kepala dalam rasa hormat yang mendalam.",
+        "dramaturgicalSubtext": "Pengakuan martabat manusia: penghormatan tanpa kata-kata dari sosok paling sinis di dalam angkatan."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D04_01_NADIA",
+        "speakerId": "nadia",
+        "parenthetical": "(Mata menyala tajam, napasnya memburu menahan murka)",
+        "textOriginal": "Cukup! Kabeh mandek! Demokrasi opo sing mbok banggakno nek isine mung kongkalikong ngapusi publik?! Jembatan roboh, pipa gas amonia njeblug, iku kabeh asale teko insinyur-insinyur sing kuliahe seneng malsukan kurva impak koyok ngene! Nek sampek data palsu iki diunggah ning portal kelulusan, detik iki uga tak kirim email bukti rekayasa menyang Ketua Jurusan lan Senat Akademik! Biar kita kabeh ora usah wisuda sisan!",
+        "textTranslationId": "Cukup! Semua berhenti! Demokrasi apa yang kamu banggakan kalau isinya cuma kongkalikong membohongi publik?! Jembatan roboh, pipa gas amonia meledak, itu semua asalnya dari insinyur-insinyur yang kuliahnya suka memalsukan kurva impak seperti ini! Kalau sampai data palsu ini diunggah di portal kelulusan, detik ini juga saya kirim email bukti rekayasa kepada Ketua Jurusan dan Senat Akademik! Biar kita semua tidak usah wisuda sekalian!",
+        "startSeconds": 527.0,
+        "endSeconds": 552.0,
+        "startFrame": 12648,
+        "endFrame": 13248,
+        "highlightColorHex": "#38BDF8"
+      },
+      {
+        "id": "D04_02_FARHAN",
+        "speakerId": "farhan",
+        "parenthetical": "(Mundur selangkah, tangannya turun perlahan, tercekat)",
+        "textOriginal": "Nad... santai, Nad... aku mung golek jalan keluar...",
+        "textTranslationId": "Nad... santai, Nad... saya cuma cari jalan keluar...",
+        "startSeconds": 553.0,
+        "endSeconds": 560.0,
+        "startFrame": 13272,
+        "endFrame": 13440,
+        "highlightColorHex": "#EF4444"
+      },
+      {
+        "id": "D04_03_ARYO",
+        "speakerId": "aryo",
+        "parenthetical": "(Mengangkat wajahnya yang basah oleh keringat dingin, bersuara mantap)",
+        "textOriginal": "Nadia bener. Opsi rekayasa data mati. Kita gak bakal ngotori integritas almamater iki mung demi slamet dewe-dewe.",
+        "textTranslationId": "Nadia benar. Opsi rekayasa data mati. Kita tidak akan mengotori integritas almamater ini cuma demi selamat sendiri-sendiri.",
+        "startSeconds": 561.0,
+        "endSeconds": 570.0,
+        "startFrame": 13464,
+        "endFrame": 13680,
+        "highlightColorHex": "#38BDF8"
+      },
+      {
+        "id": "D04_04_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Suara bergetar parau, pecah oleh tangis yang ditahan bertahun-tahun)",
+        "textOriginal": "Kalian kabeh mikir bapakku juragan sugih? Bapakku kena PHK massal pabrik semen Gresik pas aku semester telu! Omahku ning Sidoarjo wes disekolahno ning rentenir gae mbayar UKT ku kawit semester papat! Nek sesuk esuk jam sanga aku gak gowo surat kelulusan lan kontrak kerjo iki ning kantor pusat... minggu ngarep bapak ibuku diusir teko omah, rek... Kabeh perabotan bakal dilempar ning dalan... Aku kudu piye?! Aku kudu ngomong opo ning ibuku nek omah siji-sijine disita?!",
+        "textTranslationId": "Kalian semua pikir bapak saya juragan kaya? Bapak saya kena PHK massal pabrik semen Gresik waktu saya semester tiga! Rumah saya di Sidoarjo sudah disekolahkan ke rentenir untuk bayar UKT saya sejak semester empat! Kalau besok pagi jam sembilan saya tidak bawa surat kelulusan dan kontrak kerja ini ke kantor pusat... minggu depan bapak ibu saya diusir dari rumah, rek... Semua perabotan bakal dilempar ke jalan... Saya harus bagaimana?! Saya harus bicara apa ke ibu saya kalau rumah satu-satunya disita?!",
+        "startSeconds": 592.0,
+        "endSeconds": 620.0,
+        "startFrame": 14208,
+        "endFrame": 14880,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D04_05_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "(Tersenyum sangat tipis dan tulus, matanya jernih tanpa kebencian)",
+        "textOriginal": "Dim... jupuken spesimene. Ujien gae skripsimu bengi iki.",
+        "textTranslationId": "Dim... ambillah spesimennya. Ujilah untuk skripsimu malam ini.",
+        "startSeconds": 652.0,
+        "endSeconds": 660.0,
+        "startFrame": 15648,
+        "endFrame": 15840,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D04_06_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "",
+        "textOriginal": "Omahmu luwih penting, Dim. Ojo sampek bapak ibumu keleleran ning dalan goro-goro skripsiku. Aku ikhlas lahir batin. Bapakku ning Blitar wes biasa urip susah. Nek pancen takdirku kudu dadi kuli bengkel maneh ning kampung... aku ora popo. Sing penting keluargamu selamet. Ujien saiki, Dim.",
+        "textTranslationId": "Rumahmu lebih penting, Dim. Jangan sampai bapak ibumu terlunta-lunta di jalan gara-gara skripsiku. Saya ikhlas lahir batin. Bapak saya di Blitar sudah biasa hidup susah. Kalau memang takdir saya harus jadi kuli bengkel lagi di kampung... saya tidak apa-apa. Yang penting keluargamu selamat. Ujilah sekarang, Dim.",
+        "startSeconds": 663.0,
+        "endSeconds": 680.0,
+        "startFrame": 15912,
+        "endFrame": 16320,
+        "highlightColorHex": "#F59E0B"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_04_CABLE_SNAP",
+        "category": "foley",
+        "name": "Power Cable Unplug Foley",
+        "sourceDescription": "Sentakan kabel daya PC terlepas dari stopkontak dinding",
+        "targetDbfs": -10,
+        "loop": false,
+        "startSeconds": 510,
+        "durationSeconds": 1.2,
+        "startFrame": 12240,
+        "endFrame": 12268,
+        "placeholderAssetPath": "/audio/foley/cable_unplug.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_04_01",
+        "sceneId": 4,
+        "shotId": "SHOT_4_04",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 3000,
+          "keyLightColorHex": "#FDE68A",
+          "ambientIntensity": 0.25,
+          "chiaroscuroActive": true,
+          "spotlightTargetCoordinates": {
+            "xPercent": 50,
+            "yPercent": 65
+          }
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "nadia",
+            "xPercent": 20,
+            "yPercent": 65,
+            "scale": 0.95,
+            "zIndex": 32,
+            "expression": "Angry",
+            "pose": "standing",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "farhan",
+            "xPercent": 75,
+            "yPercent": 65,
+            "scale": 0.98,
+            "zIndex": 26,
+            "expression": "Shocked",
+            "pose": "head_movement",
+            "mouthShape": "wide_open",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "dimas",
+            "xPercent": 50,
+            "yPercent": 65,
+            "scale": 1.1,
+            "zIndex": 30,
+            "expression": "Sad",
+            "pose": "sitting",
+            "mouthShape": "slight_open",
+            "facingDirection": "center"
+          },
+          {
+            "characterId": "bagas",
+            "xPercent": 35,
+            "yPercent": 65,
+            "scale": 1.05,
+            "zIndex": 28,
+            "expression": "Normal",
+            "pose": "talking",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          }
+        ],
+        "activeProps": [
+          {
+            "propId": "P02_HOSPITAL_SLIP",
+            "heldByCharacterId": "bagas",
+            "position": {
+              "xPercent": 48,
+              "yPercent": 62
+            },
+            "stateDescription": "Diletakkan pelan di samping jemari Dimas di meja bundar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sceneNumber": 5,
+    "slugline": "INT. LAB PENGUJIAN MEKANIK DTMM - MALAM",
+    "locationName": "Laboratorium Pengujian Mekanik FTIRS ITS — Radius Mesin Charpy 300J",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "11:30",
+    "timecodeEnd": "13:30",
+    "durationSeconds": 120,
+    "durationFrames": 2880,
+    "startFrameCumulative": 16560,
+    "endFrameCumulative": 19440,
+    "narrativeStage": "Klimaks (Sacrifice & Test)",
+    "charactersPresentIds": [
+      "dimas",
+      "bagas",
+      "fajar",
+      "hendro",
+      "aryo",
+      "nadia",
+      "reza",
+      "rere",
+      "maya",
+      "farhan",
+      "kevin",
+      "danang",
+      "zul",
+      "kirana"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_5_01",
+        "shotNumber": 35,
+        "sceneId": 5,
+        "durationSeconds": 15,
+        "startFrame": 16560,
+        "endFrame": 16920,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas menolak mengorbankan Bagas. Ia mengambil penjepit baja (tongs), meletakkannya di tangan Bagas.",
+        "dramaturgicalSubtext": "Pembalikan moral agung: Dimas menolak menyelamatkan dirinya sendiri dengan menginjak sahabatnya."
+      },
+      {
+        "shotId": "SHOT_5_02",
+        "shotNumber": 36,
+        "sceneId": 5,
+        "durationSeconds": 20,
+        "startFrame": 16920,
+        "endFrame": 17400,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Dimas menatap Bagas: 'Ujien, Gas. Rezeki omahku... Gusti Allah ora sare. Aku ora pantes dadi manusia nek ngorbankno kancaku.'",
+        "dramaturgicalSubtext": "Kemenangan nurani manusia atas rasa takut; nilai moral tertinggi adalah pengorbanan aktif demi sesama."
+      },
+      {
+        "shotId": "SHOT_5_03",
+        "shotNumber": 37,
+        "sceneId": 5,
+        "durationSeconds": 15,
+        "startFrame": 17400,
+        "endFrame": 17760,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Lakban merah K3L di lantai radius 1.5m. 12 mahasiswa berdiri di belakang garis aman. Hanya Fajar & Bagas ber-APD.",
+        "dramaturgicalSubtext": "Menegakkan disiplin K3L ketat laboratorium teknik; keselamatan kerja tidak dikompromikan."
+      },
+      {
+        "shotId": "SHOT_5_04",
+        "shotNumber": 38,
+        "sceneId": 5,
+        "durationSeconds": 10,
+        "startFrame": 17760,
+        "endFrame": 18000,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Uap dingin membubung dari wadah perendaman -40°C. Stopwatch Fajar berdetik: 15 menit perendaman selesai.",
+        "dramaturgicalSubtext": "Prosedur ASTM E23 sub-nol: batas waktu transfer spesimen ke anvil maksimal 5 detik."
+      },
+      {
+        "shotId": "SHOT_5_05",
+        "shotNumber": 39,
+        "sceneId": 5,
+        "durationSeconds": 10,
+        "startFrame": 18000,
+        "endFrame": 18240,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 60,
+          "zoomFactor": 1.4,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Tangan Bagas bersarung tangan menjepit batang baja beku, menaruhnya sentris di landasan anvil mesin Charpy.",
+        "dramaturgicalSubtext": "Detail teknis otentik metalurgi: akurasi penempatan spesimen menentukan validitas data impak."
+      },
+      {
+        "shotId": "SHOT_5_06",
+        "shotNumber": 40,
+        "sceneId": 5,
+        "durationSeconds": 15,
+        "startFrame": 18240,
+        "endFrame": 18600,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Fajar mencabut pasak pengaman pendulum 30 kg di ketinggian 1.5m: 'CLEAR AREA! Tiga... Dua... Satu... RELEASE!'",
+        "dramaturgicalSubtext": "Ketegangan klimaks visual dan mekanik: pelepasan energi kinetik pendulum yang menuntaskan konflik."
+      },
+      {
+        "shotId": "SHOT_5_07",
+        "shotNumber": 41,
+        "sceneId": 5,
+        "durationSeconds": 10,
+        "startFrame": 18600,
+        "endFrame": 18840,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Pendulum meluncur deras membelah udara, menghantam spesimen: CLAAANNNGGG!!! Logam terbelah dua berserat.",
+        "dramaturgicalSubtext": "Pukulan pendulum adalah klimaks katarsis; mematahkan logam sekaligus mematahkan keraguan moral."
+      },
+      {
+        "shotId": "SHOT_5_08",
+        "shotNumber": 42,
+        "sceneId": 5,
+        "durationSeconds": 10,
+        "startFrame": 18840,
+        "endFrame": 19080,
+        "framing": {
+          "shotType": "ECU",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.6,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Jarum dial analog analog bergeser dan berhenti stabil pada angka skala: 52.4 JOULE. Fajar menyenter dial.",
+        "dramaturgicalSubtext": "Kepastian ilmiah objektif: angka 52.4 Joule membuktikan patah ulet berserat dan validitas data skripsi Bagas."
+      },
+      {
+        "shotId": "SHOT_5_09",
+        "shotNumber": 43,
+        "sceneId": 5,
+        "durationSeconds": 15,
+        "startFrame": 19080,
+        "endFrame": 19440,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas menutup wajahnya dengan kedua telapak tangan, menghembuskan napas tangis kelegaan. Fajar memeluk bahu Bagas.",
+        "dramaturgicalSubtext": "Kelegaan batin yang mendalam; keselamatan masa depan anak desa yang selamat dari jurang DO."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D05_01_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Suara bergetar namun tegas)",
+        "textOriginal": "Ujien, Gas. Skripsimu kudu dadi bengi iki. Bapakmu ning Blitar kudu ndelok anak lanange dadi sarjana teknik ITS. Soal rezeki omahku... Gusti Allah ora sare, Gas. Aku isih duwe tangan karo sikil sing waras gae golek gawean liyo sesuk esuk. Tapi nek aku ngorbankno kancaku dewe sing berjuang bareng kawit maba... aku ora pantes dadi manusia, apamaneh dadi sarjana.",
+        "textTranslationId": "Ujilah, Gas. Skripsimu harus jadi malam ini. Bapakmu di Blitar harus melihat anak laki-lakinya jadi sarjana teknik ITS. Soal rezeki rumah saya... Gusti Allah tidak tidur, Gas. Saya masih punya tangan dan kaki yang sehat untuk cari pekerjaan lain besok pagi. Tapi kalau saya mengorbankan teman sendiri yang berjuang bersama sejak mahasiswa baru... saya tidak pantas jadi manusia, apalagi jadi sarjana.",
+        "startSeconds": 695.0,
+        "endSeconds": 723.0,
+        "startFrame": 16680,
+        "endFrame": 17352,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D05_02_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "(Kedua tangannya gemetar memegang gagang penjepit logam, air mata mengalir di pipinya)",
+        "textOriginal": "Dim... suwun, Dim... Matur nuwun sanget...",
+        "textTranslationId": "Dim... terima kasih, Dim... Terima kasih banyak...",
+        "startSeconds": 724.0,
+        "endSeconds": 732.0,
+        "startFrame": 17376,
+        "endFrame": 17568,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D05_03_ARYO",
+        "speakerId": "aryo",
+        "parenthetical": "",
+        "textOriginal": "Fajar... Hendro... Siapkan bejana pendingin dan mesin Charpy sekarang! Waktu kita tinggal tiga puluh menit!",
+        "textTranslationId": "Fajar... Hendro... Siapkan bejana pendingin dan mesin Charpy sekarang! Waktu kita tinggal tiga puluh menit!",
+        "startSeconds": 734.0,
+        "endSeconds": 740.0,
+        "startFrame": 17616,
+        "endFrame": 17760,
+        "highlightColorHex": "#38BDF8"
+      },
+      {
+        "id": "D05_04_HENDRO",
+        "speakerId": "hendro",
+        "parenthetical": "(Memakai sarung tangan kriogenik)",
+        "textOriginal": "Spesimen siap direndam! Suhu alkohol dan dry ice stabil ning minus patang puluh derajat celcius!",
+        "textTranslationId": "Spesimen siap direndam! Suhu alkohol dan es kering stabil di minus empat puluh derajat celcius!",
+        "startSeconds": 741.0,
+        "endSeconds": 748.0,
+        "startFrame": 17784,
+        "endFrame": 17952,
+        "highlightColorHex": "#9CA3AF"
+      },
+      {
+        "id": "D05_05_FAJAR",
+        "speakerId": "fajar",
+        "parenthetical": "(Menaikkan tuas pengaman ganda mesin)",
+        "textOriginal": "Waktu transfer spesimen maksimal lima detik! Bagas, siapken capitmu!",
+        "textTranslationId": "Waktu transfer spesimen maksimal lima detik! Bagas, siapkan capitmu!",
+        "startSeconds": 749.0,
+        "endSeconds": 755.0,
+        "startFrame": 17976,
+        "endFrame": 18120,
+        "highlightColorHex": "#10B981"
+      },
+      {
+        "id": "D05_06_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "",
+        "textOriginal": "Spesimen locked! Posisi takik sentris membelakangi pendulum!",
+        "textTranslationId": "Spesimen terkunci! Posisi takik sentris membelakangi pendulum!",
+        "startSeconds": 756.0,
+        "endSeconds": 760.0,
+        "startFrame": 18144,
+        "endFrame": 18240,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D05_07_FAJAR",
+        "speakerId": "fajar",
+        "parenthetical": "(Berteriak lantang)",
+        "textOriginal": "CLEAR AREA! Tiga... Dua... Satu... RELEASE!",
+        "textTranslationId": "AREA BERSIH! Tiga... Dua... Satu... LEPASKAN!",
+        "startSeconds": 765.0,
+        "endSeconds": 773.0,
+        "startFrame": 18360,
+        "endFrame": 18552,
+        "highlightColorHex": "#10B981"
+      },
+      {
+        "id": "D05_08_FAJAR",
+        "speakerId": "fajar",
+        "parenthetical": "(Memeriksa dial dengan senter smartphone, berteriak histeris gembira)",
+        "textOriginal": "PATAH ULET BERSERAT! ENERGI SERAP LIMA PULUH DUA KOMA EMPAT JOULE! DATA ASTM E23 VALID MUTLAK!",
+        "textTranslationId": "PATAH ULET BERSERAT! ENERGI SERAP LIMA PULUH DUA KOMA EMPAT JOULE! DATA ASTM E23 VALID MUTLAK!",
+        "startSeconds": 787.0,
+        "endSeconds": 799.0,
+        "startFrame": 18888,
+        "endFrame": 19176,
+        "highlightColorHex": "#10B981"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_05_STOPWATCH",
+        "category": "foley",
+        "name": "K3L Digital Stopwatch Tick",
+        "sourceDescription": "Detik ritmis stopwatch digital Fajar menghitung 15 menit perendaman",
+        "targetDbfs": -18,
+        "loop": true,
+        "startSeconds": 735,
+        "durationSeconds": 25,
+        "startFrame": 17640,
+        "endFrame": 18240,
+        "placeholderAssetPath": "/audio/foley/stopwatch_tick.mp3"
+      },
+      {
+        "id": "AUD_05_CHARPY_IMPACT",
+        "category": "foley",
+        "name": "Pendulum 300J Steel Impact (Safety Track)",
+        "sourceDescription": "Dentang logam dahsyat pukulan pendulum 30kg menghantam baja paduan (-12 dB safety attenuation)",
+        "targetDbfs": -6,
+        "isSafetyTrackActive": true,
+        "loop": false,
+        "startSeconds": 775,
+        "durationSeconds": 4.0,
+        "startFrame": 18600,
+        "endFrame": 18696,
+        "placeholderAssetPath": "/audio/foley/charpy_impact_safety_track.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_05_01",
+        "sceneId": 5,
+        "shotId": "SHOT_5_07",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 4200,
+          "keyLightColorHex": "#F1F5F9",
+          "ambientIntensity": 0.7,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "fajar",
+            "xPercent": 65,
+            "yPercent": 70,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Serious",
+            "pose": "standing",
+            "mouthShape": "wide_open",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "bagas",
+            "xPercent": 40,
+            "yPercent": 70,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Nervous",
+            "pose": "walking",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "hendro",
+            "xPercent": 25,
+            "yPercent": 70,
+            "scale": 0.98,
+            "zIndex": 20,
+            "expression": "Normal",
+            "pose": "head_movement",
+            "mouthShape": "rest",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "dimas",
+            "xPercent": 80,
+            "yPercent": 65,
+            "scale": 1.02,
+            "zIndex": 22,
+            "expression": "relieved",
+            "pose": "standing",
+            "mouthShape": "slight_open",
+            "facingDirection": "left"
+          }
+        ],
+        "activeProps": [
+          {
+            "propId": "P06_CHARPY_PENDULUM",
+            "position": {
+              "xPercent": 50,
+              "yPercent": 50
+            },
+            "stateDescription": "Pendulum berayun naik setelah mematahkan spesimen pada dial 52.4 Joule"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sceneNumber": 6,
+    "slugline": "INT. KORIDOR GEDUNG W FTIRS ITS - MALAM",
+    "locationName": "Ruang Komputer Lab transisi ke Koridor Selasar Gedung W FTIRS ITS",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "13:30",
+    "timecodeEnd": "14:45",
+    "durationSeconds": 75,
+    "durationFrames": 1800,
+    "startFrameCumulative": 19440,
+    "endFrameCumulative": 21240,
+    "narrativeStage": "Refleksi A (Verification)",
+    "charactersPresentIds": [
+      "nadia",
+      "aryo",
+      "bagas",
+      "kevin",
+      "danang",
+      "maya",
+      "rere",
+      "dimas",
+      "zul",
+      "farhan",
+      "kirana",
+      "fajar",
+      "reza",
+      "hendro"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_6_01",
+        "shotNumber": 44,
+        "sceneId": 6,
+        "durationSeconds": 10,
+        "startFrame": 19440,
+        "endFrame": 19680,
+        "framing": {
+          "shotType": "OTS",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Layar PC menampilkan portal SIM ITS. Nadia mengunggah kurva 52.4 Joule. Aryo mengklik SUBMIT. Jam: 23:46 WIB.",
+        "dramaturgicalSubtext": "Penuntasan misi akademis tepat waktu sebelum batas akhir yudisium tengah malam terkunci."
+      },
+      {
+        "shotId": "SHOT_6_02",
+        "shotNumber": 45,
+        "sceneId": 6,
+        "durationSeconds": 10,
+        "startFrame": 19680,
+        "endFrame": 19920,
+        "framing": {
+          "shotType": "INSERT",
+          "focalLengthEqMm": 52,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.3,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Ikon loading berputar 3 detik, lalu layar memancarkan centang hijau: STATUS TERVERIFIKASI & MEMENUHI SYARAT YUDISIUM.",
+        "dramaturgicalSubtext": "Validasi resmi birokrasi kampus: keselamatan akademis Bagas telah sah secara sistemik."
+      },
+      {
+        "shotId": "SHOT_6_03",
+        "shotNumber": 46,
+        "sceneId": 6,
+        "durationSeconds": 15,
+        "startFrame": 19920,
+        "endFrame": 20280,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pan_right",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas bersujud syukur di lantai lab. Maya dan Rere berpelukan haru. Farhan menyeka air mata tertawa getir.",
+        "dramaturgicalSubtext": "Ekspresi spiritualitas dan rasa syukur kultural khas mahasiswa Indonesia tanpa perlu khotbah lisan."
+      },
+      {
+        "shotId": "SHOT_6_04",
+        "shotNumber": 47,
+        "sceneId": 6,
+        "durationSeconds": 10,
+        "startFrame": 20280,
+        "endFrame": 20520,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 40,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Di selasar luar pintu lab, Dimas berdiri menyendiri bersandar pada pilar Gedung W 3800K, menghela napas.",
+        "dramaturgicalSubtext": "Resolusi batin Dimas: menerima konsekuensi kehilangan kontrak kerja demi menyelamatkan integritas kemanusiaan."
+      },
+      {
+        "shotId": "SHOT_6_05",
+        "shotNumber": 48,
+        "sceneId": 6,
+        "durationSeconds": 10,
+        "startFrame": 20520,
+        "endFrame": 20760,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "passive_ninja_walk",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.05,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Zul melangkah mendekat dari belakang, menepuk pundak Dimas: 'Koe lanang tenan, Dim. Sedekah paling abot iku ngikhlaske masa depanmu.'",
+        "dramaturgicalSubtext": "Pengakuan kejantanan moral sejati dari perwakilan senioritas kampus."
+      },
+      {
+        "shotId": "SHOT_6_06",
+        "shotNumber": 49,
+        "sceneId": 6,
+        "durationSeconds": 10,
+        "startFrame": 20760,
+        "endFrame": 21000,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 60,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Kirana melangkah mendekat, membuka map portofolio: menghubungi GM pabrik pipa baja di Cilegon/Gresik untuk Dimas.",
+        "dramaturgicalSubtext": "Keajaiban solidaritas angkatan: pintu rezeki baru terbuka melalui jaringan profesional persahabatan kampus."
+      },
+      {
+        "shotId": "SHOT_6_07",
+        "shotNumber": 50,
+        "sceneId": 6,
+        "durationSeconds": 10,
+        "startFrame": 21000,
+        "endFrame": 21240,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.2,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Wajah Dimas tersenyum haru, matanya berkaca-kaca menatap Kirana dan Zul, lalu mengangguk mantap.",
+        "dramaturgicalSubtext": "Katarsis emosional penonton: membuktikan bahwa integritas moral tidak pernah berakhir sia-sia."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D06_01_NADIA",
+        "speakerId": "nadia",
+        "parenthetical": "(Menunjuk layar PC dengan senyum haru)",
+        "textOriginal": "Unggah berkas sukses. Jam sebelas empat puluh enam. Terverifikasi sistem.",
+        "textTranslationId": "Unggah berkas sukses. Jam sebelas empat puluh enam. Terverifikasi sistem.",
+        "startSeconds": 813.0,
+        "endSeconds": 820.0,
+        "startFrame": 19512,
+        "endFrame": 19680,
+        "highlightColorHex": "#38BDF8"
+      },
+      {
+        "id": "D06_02_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "(Bangkit dari sujudnya, suaranya bergetar penuh syukur)",
+        "textOriginal": "Alhamdulillah ya Allah... Lulus, rek... Aku iso mulih Blitar gowo ijazah...",
+        "textTranslationId": "Alhamdulillah ya Allah... Lulus, teman-teman... Saya bisa pulang ke Blitar bawa ijazah...",
+        "startSeconds": 821.0,
+        "endSeconds": 832.0,
+        "startFrame": 19704,
+        "endFrame": 19968,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D06_03_FARHAN",
+        "speakerId": "farhan",
+        "parenthetical": "(Menyeka sudut matanya dengan punggung tangan, tertawa getir)",
+        "textOriginal": "Gak sido DO kowe, Gas! Sah dadi Sarjana Teknik!",
+        "textTranslationId": "Tidak jadi DO kamu, Gas! Sah jadi Sarjana Teknik!",
+        "startSeconds": 833.0,
+        "endSeconds": 841.0,
+        "startFrame": 19992,
+        "endFrame": 20184,
+        "highlightColorHex": "#EF4444"
+      },
+      {
+        "id": "D06_04_ZUL",
+        "speakerId": "zul",
+        "parenthetical": "(Suara berat khas Madura-Suroboyoan, penuh wibawa)",
+        "textOriginal": "Koe lanang tenan, Dim. Sedekah paling abot iku dudu sedekah bondo, tapi ngikhlaske masa depanmu dewe gae nyelametno kancamu. Hormatku gae kowe, Dimas.",
+        "textTranslationId": "Kamu lelaki sejati, Dim. Sedekah paling berat itu bukan sedekah harta, tapi mengikhlaskan masa depanmu sendiri untuk menyelamatkan temanmu. Rasa hormatku untukmu, Dimas.",
+        "startSeconds": 856.0,
+        "endSeconds": 868.0,
+        "startFrame": 20544,
+        "endFrame": 20832,
+        "highlightColorHex": "#16A34A"
+      },
+      {
+        "id": "D06_05_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Menerima botol air dari Kevin, tersenyum tipis nan teduh)",
+        "textOriginal": "Matur nuwun sanget, Mas Zul... Kevin, suwun ya.",
+        "textTranslationId": "Terima kasih banyak, Mas Zul... Kevin, terima kasih ya.",
+        "startSeconds": 869.0,
+        "endSeconds": 874.0,
+        "startFrame": 20856,
+        "endFrame": 20976,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D06_06_KIRANA",
+        "speakerId": "kirana",
+        "parenthetical": "(Melipat map dokumennya, berbicara lembut dan tulus)",
+        "textOriginal": "Dim, barusan aku WhatsApp Pak Hendra, General Manager pabrik pipa baja rekanan risetku di Cilegon dan Gresik. Beliau butuh engineer muda yang berani dan punya integritas mental sepertimu. Besok pagi jam delapan kita berangkat bareng ke kantor perwakilannya di Surabaya. Portofoliomu sudah kusiapkan.",
+        "textTranslationId": "Dim, barusan saya WhatsApp Pak Hendra, General Manager pabrik pipa baja rekanan riset saya di Cilegon dan Gresik. Beliau butuh insinyur muda yang berani dan punya integritas mental sepertimu. Besok pagi jam delapan kita berangkat bersama ke kantor perwakilannya di Surabaya. Portofoliomu sudah saya siapkan.",
+        "startSeconds": 875.0,
+        "endSeconds": 885.0,
+        "startFrame": 21000,
+        "endFrame": 21240,
+        "highlightColorHex": "#C084FC"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_06_CORRIDOR_WIND",
+        "category": "ambient",
+        "name": "Open Corridor Night Wind",
+        "sourceDescription": "Desau angin sejuk koridor selasar Gedung W dan rintik sisa hujan di talang",
+        "targetDbfs": -20,
+        "loop": true,
+        "startSeconds": 845,
+        "durationSeconds": 40,
+        "startFrame": 20280,
+        "endFrame": 21240,
+        "placeholderAssetPath": "/audio/ambient/corridor_night_wind.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_06_01",
+        "sceneId": 6,
+        "shotId": "SHOT_6_03",
+        "environment": {
+          "locationType": "lab_mechanic",
+          "colorTempKelvin": 4200,
+          "keyLightColorHex": "#F1F5F9",
+          "ambientIntensity": 0.7,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "bagas",
+            "xPercent": 50,
+            "yPercent": 80,
+            "scale": 1.0,
+            "zIndex": 30,
+            "expression": "Happy",
+            "pose": "prostrating_gratitude",
+            "mouthShape": "rest",
+            "facingDirection": "center"
+          },
+          {
+            "characterId": "dimas",
+            "xPercent": 30,
+            "yPercent": 70,
+            "scale": 1.02,
+            "zIndex": 28,
+            "expression": "Normal",
+            "pose": "standing",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "zul",
+            "xPercent": 20,
+            "yPercent": 70,
+            "scale": 1.04,
+            "zIndex": 27,
+            "expression": "Serious",
+            "pose": "talking",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "kirana",
+            "xPercent": 70,
+            "yPercent": 70,
+            "scale": 0.98,
+            "zIndex": 26,
+            "expression": "Happy",
+            "pose": "walking",
+            "mouthShape": "slight_open",
+            "facingDirection": "left"
+          }
+        ],
+        "activeProps": []
+      }
+    ]
+  },
+  {
+    "sceneNumber": 7,
+    "slugline": "EXT. TANGGA SELASAR GEDUNG W FTIRS ITS - MALAM",
+    "locationName": "Tangga Semen Selasar Eksterior Gedung W FTIRS ITS Menghadap Taman",
+    "timeOfDay": "MALAM",
+    "timecodeStart": "14:45",
+    "timecodeEnd": "16:00",
+    "durationSeconds": 75,
+    "durationFrames": 1800,
+    "startFrameCumulative": 21240,
+    "endFrameCumulative": 23040,
+    "narrativeStage": "Refleksi B (Solidarity)",
+    "charactersPresentIds": [
+      "aryo",
+      "dimas",
+      "bagas",
+      "fajar",
+      "reza",
+      "hendro",
+      "farhan",
+      "kevin",
+      "danang",
+      "zul",
+      "nadia",
+      "maya",
+      "rere",
+      "kirana"
+    ],
+    "shots": [
+      {
+        "shotId": "SHOT_7_01",
+        "shotNumber": 51,
+        "sceneId": 7,
+        "durationSeconds": 10,
+        "startFrame": 21240,
+        "endFrame": 21480,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 60,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Seluruh 14 mahasiswa duduk berkumpul di anak tangga semen Gedung W setelah melepas jas lab. Hendro membuka bungkusan koran tahu.",
+        "dramaturgicalSubtext": "Komposisi keluarga besar: 14 mahasiswa duduk sejajar tanpa hierarki, menyatu dalam kehangatan komunitas."
+      },
+      {
+        "shotId": "SHOT_7_02",
+        "shotNumber": 52,
+        "sceneId": 7,
+        "durationSeconds": 10,
+        "startFrame": 21480,
+        "endFrame": 21720,
+        "framing": {
+          "shotType": "MCU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Hendro membagikan tahu goreng dan cabai rawit hijau: 'Iki tahune jek ono limang iji, lur.' Farhan mencolek Dimas bercanda.",
+        "dramaturgicalSubtext": "Dialog otentik mahasiswa Suroboyoan yang mencairkan seluruh ketegangan fisik belasan jam sebelumnya."
+      },
+      {
+        "shotId": "SHOT_7_03",
+        "shotNumber": 53,
+        "sceneId": 7,
+        "durationSeconds": 10,
+        "startFrame": 21720,
+        "endFrame": 21960,
+        "framing": {
+          "shotType": "WS",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.1,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Bagas dan Dimas duduk berdampingan makan tahu goreng. Bagas: 'Sesuk esuk aku sing nraktir kopi ning Warkop Mak Rini.'",
+        "dramaturgicalSubtext": "Penebusan persahabatan sejati yang diikat oleh kesederhanaan ritual kopi dan gorengan khas kampus ITS."
+      },
+      {
+        "shotId": "SHOT_7_04",
+        "shotNumber": 54,
+        "sceneId": 7,
+        "durationSeconds": 10,
+        "startFrame": 21960,
+        "endFrame": 22200,
+        "framing": {
+          "shotType": "MS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pan_right",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Kamera menyapu wajah-wajah 14 mahasiswa: Danang & Kevin membagikan teh, Reza & Fajar tersenyum rileks, Nadia & Maya tertawa.",
+        "dramaturgicalSubtext": "Memberikan penutupan bermartabat bagi setiap karakter; tidak ada yang disingkirkan, semua memiliki andil."
+      },
+      {
+        "shotId": "SHOT_7_05",
+        "shotNumber": 55,
+        "sceneId": 7,
+        "durationSeconds": 15,
+        "startFrame": 22200,
+        "endFrame": 22560,
+        "framing": {
+          "shotType": "CU",
+          "focalLengthEqMm": 52,
+          "movement": "handheld_bracing",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.15,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Timecode 15:15: dialog verbal berhenti. Bagas meletakkan tangan di pundak Dimas. Keduanya menatap gerbang timur kampus ITS.",
+        "dramaturgicalSubtext": "Subteks keheningan kontemplatif: nilai keadilan, persatuan, dan kemanusiaan terpatri abadi dalam ketenangan batin."
+      },
+      {
+        "shotId": "SHOT_7_06",
+        "shotNumber": 56,
+        "sceneId": 7,
+        "durationSeconds": 15,
+        "startFrame": 22560,
+        "endFrame": 22920,
+        "framing": {
+          "shotType": "EWS",
+          "focalLengthEqMm": 26,
+          "movement": "slow_pull_out",
+          "horizontalPositionPercent": 50,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Kamera mundur perlahan menjauhi tangga semen. Siluet 14 mahasiswa membingkai arsitektur Gedung W FTIRS ITS.",
+        "dramaturgicalSubtext": "Visualisasi penutup: mahasiswa sebagai tunas masa depan bangsa yang telah teruji dalam integritas moral laboratorium."
+      },
+      {
+        "shotId": "SHOT_7_07",
+        "shotNumber": 57,
+        "sceneId": 7,
+        "durationSeconds": 5,
+        "startFrame": 22920,
+        "endFrame": 23040,
+        "framing": {
+          "shotType": "GRAPHIC",
+          "focalLengthEqMm": 26,
+          "movement": "static",
+          "horizontalPositionPercent": 75,
+          "verticalPositionPercent": 50,
+          "zoomFactor": 1.0,
+          "shutterSpeed": "1/50s",
+          "frameRateFps": 24
+        },
+        "description": "Teks kredit akhir muncul di kanan bingkai selama 45 detik. Slow Fade to Black tepat di 15:55, hening absolut hingga 16:00.",
+        "dramaturgicalSubtext": "Menuntaskan format film tepat pada durasi terkalibrasi 16:00 dengan kredit penutup terikat batas maksimal <= 60 detik."
+      }
+    ],
+    "dialogueLines": [
+      {
+        "id": "D07_01_HENDRO",
+        "speakerId": "hendro",
+        "parenthetical": "(Membuka bungkus koran tahu goreng di tengah anak tangga)",
+        "textOriginal": "Iki tahune jek ono limang iji, lur. Lombok rawite jek akeh. Sopo sing durung mangan kawit sore mau?",
+        "textTranslationId": "Ini tahunya masih ada lima buah, kawan. Cabai rawitnya masih banyak. Siapa yang belum makan dari sore tadi?",
+        "startSeconds": 887.0,
+        "endSeconds": 895.0,
+        "startFrame": 21288,
+        "endFrame": 21480,
+        "highlightColorHex": "#9CA3AF"
+      },
+      {
+        "id": "D07_02_FARHAN",
+        "speakerId": "farhan",
+        "parenthetical": "(Mengambil sepotong tahu goreng sambil mencolek bahu Dimas, tertawa santai)",
+        "textOriginal": "Dimas sikik sing mangan, ben lemu sitik pikirane, gak spaneng maneh koyok wong diuber rentenir!",
+        "textTranslationId": "Dimas duluan yang makan, biar sedikit gemuk pikirannya, tidak tegang lagi seperti orang dikejar rentenir!",
+        "startSeconds": 896.0,
+        "endSeconds": 903.0,
+        "startFrame": 21504,
+        "endFrame": 21672,
+        "highlightColorHex": "#EF4444"
+      },
+      {
+        "id": "D07_03_DIMAS",
+        "speakerId": "dimas",
+        "parenthetical": "(Menggigit tahu goreng dan cabai rawit hijau, tertawa renyah dan lepas)",
+        "textOriginal": "Cangkemu, Han! Suwun ya, rek... Suwun kabeh.",
+        "textTranslationId": "Mulutmu, Han! Terima kasih ya, teman-teman... Terima kasih semua.",
+        "startSeconds": 904.0,
+        "endSeconds": 909.0,
+        "startFrame": 21696,
+        "endFrame": 21816,
+        "highlightColorHex": "#DC2626"
+      },
+      {
+        "id": "D07_04_BAGAS",
+        "speakerId": "bagas",
+        "parenthetical": "(Mengunyah tahu gorengnya, tersenyum memandang kawan-kawannya)",
+        "textOriginal": "Sesuk esuk aku sing nraktir kopi ning Warkop Mak Rini Keputih. Kabeh kudu teko.",
+        "textTranslationId": "Besok pagi saya yang mentraktir kopi di Warkop Mak Rini Keputih. Semua harus datang.",
+        "startSeconds": 910.0,
+        "endSeconds": 916.0,
+        "startFrame": 21840,
+        "endFrame": 21984,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D07_05_REZA",
+        "speakerId": "reza",
+        "parenthetical": "(Tersenyum lebar dari anak tangga atas)",
+        "textOriginal": "Tenan lho ya, Gas! Ojo lali gorengane ditambahi!",
+        "textTranslationId": "Beneran lho ya, Gas! Jangan lupa gorengannya ditambah!",
+        "startSeconds": 917.0,
+        "endSeconds": 922.0,
+        "startFrame": 22008,
+        "endFrame": 22128,
+        "highlightColorHex": "#F59E0B"
+      },
+      {
+        "id": "D07_06_RERE_MAYA",
+        "speakerId": "rere",
+        "parenthetical": "(Tertawa bersama memandang Bagas dan Dimas)",
+        "textOriginal": "(Tertawa ceria bersama)",
+        "textTranslationId": "(Tertawa ceria bersama)",
+        "startSeconds": 923.0,
+        "endSeconds": 927.0,
+        "startFrame": 22152,
+        "endFrame": 22248,
+        "highlightColorHex": "#EA580C"
+      }
+    ],
+    "audioCues": [
+      {
+        "id": "AUD_07_TAHU_CRUNCH",
+        "category": "foley",
+        "name": "Fried Tofu Crunch Foley",
+        "sourceDescription": "Suara renyah gigitan tahu goreng hangat dan gemerisik kertas koran",
+        "targetDbfs": -14,
+        "loop": false,
+        "startSeconds": 904,
+        "durationSeconds": 1.5,
+        "startFrame": 21696,
+        "endFrame": 21732,
+        "placeholderAssetPath": "/audio/foley/tofu_crunch.mp3"
+      },
+      {
+        "id": "AUD_07_NIGHT_AMBIENCE",
+        "category": "ambient",
+        "name": "Kampus ITS Night Courtyard Ambience",
+        "sourceDescription": "Desau angin pohon ketapang, derik jangkrik taman, dan deru sayup jalan raya",
+        "targetDbfs": -22,
+        "loop": true,
+        "startSeconds": 885,
+        "durationSeconds": 75,
+        "startFrame": 21240,
+        "endFrame": 23040,
+        "placeholderAssetPath": "/audio/ambient/kampus_its_night.mp3"
+      }
+    ],
+    "visualCues": [
+      {
+        "id": "VC_07_01",
+        "sceneId": 7,
+        "shotId": "SHOT_7_01",
+        "environment": {
+          "locationType": "exterior_stairs",
+          "colorTempKelvin": 3800,
+          "keyLightColorHex": "#FDE047",
+          "ambientIntensity": 0.5,
+          "chiaroscuroActive": false
+        },
+        "charactersOnStage": [
+          {
+            "characterId": "hendro",
+            "xPercent": 40,
+            "yPercent": 68,
+            "scale": 1.0,
+            "zIndex": 26,
+            "expression": "Happy",
+            "pose": "sitting",
+            "mouthShape": "slight_open",
+            "facingDirection": "right"
+          },
+          {
+            "characterId": "farhan",
+            "xPercent": 60,
+            "yPercent": 68,
+            "scale": 1.0,
+            "zIndex": 26,
+            "expression": "Happy",
+            "pose": "talking",
+            "mouthShape": "wide_open",
+            "facingDirection": "left"
+          },
+          {
+            "characterId": "dimas",
+            "xPercent": 48,
+            "yPercent": 65,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Happy",
+            "pose": "sitting",
+            "mouthShape": "wide_open",
+            "facingDirection": "center"
+          },
+          {
+            "characterId": "bagas",
+            "xPercent": 52,
+            "yPercent": 65,
+            "scale": 1.0,
+            "zIndex": 25,
+            "expression": "Happy",
+            "pose": "looking_right",
+            "mouthShape": "slight_open",
+            "facingDirection": "center"
+          },
+          {
+            "characterId": "aryo",
+            "xPercent": 50,
+            "yPercent": 55,
+            "scale": 0.95,
+            "zIndex": 22,
+            "expression": "Normal",
+            "pose": "idle",
+            "mouthShape": "rest",
+            "facingDirection": "center"
+          }
+        ],
+        "activeProps": [
+          {
+            "propId": "P04_TOFU_NEWSPAPER",
+            "position": {
+              "xPercent": 50,
+              "yPercent": 70
+            },
+            "stateDescription": "Bungkusan koran cokelat berisi tahu goreng di tengah anak tangga"
+          }
+        ]
+      }
+    ]
+  }
+]

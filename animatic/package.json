@@ -1,0 +1,37 @@
+{
+  "name": "film-pendek-pancasila-animatic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Procedural 2D Animated Animatic for DTMM ITS Short Film 'Spesimen Terakhir' using React & Remotion",
+  "scripts": {
+    "dev": "remotion preview src/index.ts",
+    "preview": "remotion preview src/index.ts",
+    "build:check": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "render": "tsx scripts/render_preview.ts",
+    "render:preview": "tsx scripts/render_preview.ts",
+    "render:prototype": "tsx scripts/render_preview.ts --composition PrototypeScene",
+    "render:chunks": "tsx scripts/render_chunks.ts",
+    "render:concat": "python scripts/concat_chunks.py",
+    "render:full": "tsx scripts/render_chunks.ts && python scripts/concat_chunks.py"
+  },
+  "dependencies": {
+    "@remotion/player": "^4.0.540",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.540",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "^4.0.540",
+    "@remotion/cli": "^4.0.540",
+    "@remotion/renderer": "^4.0.540",
+    "@types/node": "^20.17.6",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}

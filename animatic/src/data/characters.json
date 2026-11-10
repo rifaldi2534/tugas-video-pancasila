@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "aryo",
+    "fullName": "Aryo Wicaksono",
+    "callSign": "Aryo",
+    "gender": "male",
+    "age": 22,
+    "laboratory": "Lab Metalurgi Fisik (Perlakuan Panas)",
+    "socioEconomicStatus": "Menengah / Mandiri",
+    "archetypeRole": "The Overburdened Servant Leader",
+    "primaryMotivation": "Memastikan seluruh 14 anggota lulus bersama tanpa ada yang tertinggal dan menjaga kehormatan moral kelompok.",
+    "characterFlaw": "Savior Complex dan kelumpuhan keputusan (decision paralysis) akibat enggan bersikap otoriter.",
+    "personalStakes": "Skripsi pribadinya terbengkalai karena waktunya habis mengurusi logistik dan surat izin anggota lain.",
+    "signatureProps": [
+      "clipboard_bap_wood",
+      "pilot_black_pen",
+      "lab_keys"
+    ],
+    "visualProfile": {
+      "heightCm": 172,
+      "heightScale": 1.0,
+      "build": "medium",
+      "palette": {
+        "skinToneHex": "#D4A373",
+        "skinShadowHex": "#B07D4F",
+        "hairOrHijabHex": "#1E293B",
+        "primaryAttireHex": "#1E3A8A",
+        "secondaryAttireHex": "#F8FAFC",
+        "pantsColorHex": "#334155",
+        "shoesColorHex": "#0F172A",
+        "accentPropHex": "#B45309"
+      },
+      "hairStyle": "straight_parted_messy",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kemeja polo katun biru dongker berkerah",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "ARYO W. - DTMM ITS",
+        "condition": "creased"
+      },
+      "footwear": "Sneakers kanvas hitam bersol putih",
+      "distinctiveFeatures": [
+        "Kantung mata panda lelah",
+        "Postur agak bungkuk menanggung beban"
+      ],
+      "explicitAssumptions": [
+        "Kemeja polo biru gelap mencerminkan gaya kepemimpinan formal yang kelelahan.",
+        "Clipboard kayu memiliki jepitan seng perak di bagian atas dengan stempel draf SIM ITS merah."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "dimas",
+    "fullName": "Dimas Pratama",
+    "callSign": "Dimas",
+    "gender": "male",
+    "age": 23,
+    "laboratory": "Lab Korosi & Proteksi Katodik Pipa Migas",
+    "socioEconomicStatus": "Menengah Bawah (Terlilit Utang Rentenir)",
+    "archetypeRole": "The Desperate Careerist / Bourgeois Investor",
+    "primaryMotivation": "Mengamankan kontrak kerja migas Balikpapan demi melunasi rentenir keluarga dan menyelamatkan rumah orang tuanya.",
+    "characterFlaw": "Transaksional, keras, defensif; menutupi kerapuhan finansial dengan arogansi modal.",
+    "personalStakes": "Surat Job Offer PT Borneo Energy Services yang hangus besok pagi jika BAP tidak terbit malam ini.",
+    "signatureProps": [
+      "leather_briefcase",
+      "bca_transfer_receipt",
+      "job_offer_contract",
+      "casio_watch"
+    ],
+    "visualProfile": {
+      "heightCm": 175,
+      "heightScale": 1.02,
+      "build": "athletic",
+      "palette": {
+        "skinToneHex": "#E2B184",
+        "skinShadowHex": "#C28B5C",
+        "hairOrHijabHex": "#0F172A",
+        "primaryAttireHex": "#991B1B",
+        "secondaryAttireHex": "#18181B",
+        "pantsColorHex": "#09090B",
+        "shoesColorHex": "#451A03",
+        "accentPropHex": "#DC2626"
+      },
+      "hairStyle": "pompadour_undercut_pomade",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kemeja flanel lengan panjang kotak-kotak merah bata dan hitam",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": true,
+        "drapedOverThighs": false,
+        "nameTagText": "DIMAS P. - DTMM ITS",
+        "condition": "clean"
+      },
+      "footwear": "Sepatu kulit kasual cokelat tua mengkilap",
+      "distinctiveFeatures": [
+        "Tatapan mata tajam mengintimidasi",
+        "Jam tangan Casio stainless perak"
+      ],
+      "explicitAssumptions": [
+        "Kemeja flanel merah kotak-kotak menyiratkan ambisi dinamis yang menyembunyikan kerapuhan utang.",
+        "Jam tangan digital menampilkan kedipan detik untuk memperkuat sensasi hitung mundur."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "bagas",
+    "fullName": "Bagas Triatmojo",
+    "callSign": "Bagas",
+    "gender": "male",
+    "age": 23,
+    "laboratory": "Lab Pengecoran dan Pengolahan Logam",
+    "socioEconomicStatus": "Prasejahtera (Bidikmisi Semester 10)",
+    "archetypeRole": "The Stoic Underdog / The Selfless Altruist",
+    "primaryMotivation": "Menyelesaikan skripsi sebelum batas DO resmi esok pagi agar bisa menafkahi adik dan mengobati ayah stroke.",
+    "characterFlaw": "Pasif, rendah diri (inferiority complex), dan fatalistik; enggan meminta pertolongan.",
+    "personalStakes": "Batas Drop Out semester 10 dan kelangsungan hidup keluarga prasejahtera di Blitar.",
+    "signatureProps": [
+      "faded_hmmt_hoodie",
+      "rsud_blitar_hospital_slip",
+      "cracked_student_card"
+    ],
+    "visualProfile": {
+      "heightCm": 168,
+      "heightScale": 0.98,
+      "build": "slender",
+      "palette": {
+        "skinToneHex": "#C68642",
+        "skinShadowHex": "#9E6226",
+        "hairOrHijabHex": "#1C1917",
+        "primaryAttireHex": "#475569",
+        "secondaryAttireHex": "#1E293B",
+        "pantsColorHex": "#334155",
+        "shoesColorHex": "#1E293B",
+        "accentPropHex": "#F43F5E"
+      },
+      "hairStyle": "unkempt_wavy_forehead",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Jaket hoodie usang HMMT abu-abu tua pudar basah gerimis",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "BAGAS T.",
+        "condition": "creased"
+      },
+      "footwear": "Kets kanvas hitam dengan sol samping robek kecil",
+      "distinctiveFeatures": [
+        "Kuku kusam bekas oli",
+        "Jaket hoodie kebesaran yang lembap",
+        "Mata merah kelelahan"
+      ],
+      "explicitAssumptions": [
+        "Hoodie HMMT basah gerimis menandakan perjalanan jauh dengan motor tua dari kost Keputih.",
+        "Kwitansi RSUD Blitar memiliki stempel tinta ungu pudar di pojok bawah."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "fajar",
+    "fullName": "Fajar Nurhadi",
+    "callSign": "Fajar",
+    "gender": "male",
+    "age": 22,
+    "laboratory": "Lab Pengujian Mekanik (Asisten Resmi Mesin Uji)",
+    "socioEconomicStatus": "Menengah",
+    "archetypeRole": "The Rule-Bound Bureaucrat with a Conscience",
+    "primaryMotivation": "Menjaga integritas mesin uji ratusan juta rupiah, menegakkan SOP ASTM E23, dan melindungi lisensi asisten.",
+    "characterFlaw": "Kaku secara birokratis dan takut mengambil risiko personal; terjepit antara aturan dan solidaritas.",
+    "personalStakes": "Posisi asisten lab dan surat rekomendasi studi lanjut yang terancam sanksi Kepala Lab.",
+    "signatureProps": [
+      "digital_stopwatch_lanyard",
+      "vernier_caliper_steel",
+      "charpy_safety_key",
+      "lab_leather_gloves"
+    ],
+    "visualProfile": {
+      "heightCm": 170,
+      "heightScale": 0.99,
+      "build": "medium",
+      "palette": {
+        "skinToneHex": "#DEB887",
+        "skinShadowHex": "#BD9665",
+        "hairOrHijabHex": "#0C0A09",
+        "primaryAttireHex": "#FFFFFF",
+        "secondaryAttireHex": "#059669",
+        "pantsColorHex": "#18181B",
+        "shoesColorHex": "#0A0A0A",
+        "accentPropHex": "#10B981"
+      },
+      "hairStyle": "military_buzz_cut",
+      "headCovering": "none",
+      "glasses": "black_rectangular",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kemeja putih berkerah terkancing rapi hingga leher",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": true,
+        "drapedOverThighs": false,
+        "nameTagText": "FAJAR N. - ASISTEN UJI MEKANIK DTMM",
+        "condition": "clean"
+      },
+      "footwear": "Pantofel kulit hitam bertali",
+      "distinctiveFeatures": [
+        "Jas lab paling putih bersih",
+        "Kacamata bingkai hitam persegi",
+        "Stopwatch kalung dada"
+      ],
+      "explicitAssumptions": [
+        "Memakai kacamata safety goggle bening berbingkai hijau neon khusus di Scene 5 saat memimpin uji Charpy."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "reza",
+    "fullName": "Reza Kurniawan",
+    "callSign": "Reza",
+    "gender": "male",
+    "age": 23,
+    "laboratory": "Lab Material Energi (Baterai & Elektrokimia)",
+    "socioEconomicStatus": "Menengah / Mantan Aktivis",
+    "archetypeRole": "The Passionate Moral Crusader",
+    "primaryMotivation": "Membela keadilan sosial bagi mahasiswa prasejahtera dan menentang komersialisasi pendidikan teknik.",
+    "characterFlaw": "Dogmatis, reaktif, mudah menghakimi orang lain sebelum memahami konteks personalnya.",
+    "personalStakes": "Integritas moral dan reputasi aktivis mahasiswa yang dipertaruhkan di hadapan kelompok.",
+    "signatureProps": [
+      "canvas_messenger_bag_pins",
+      "brown_field_notebook",
+      "ethnic_wrist_bracelet"
+    ],
+    "visualProfile": {
+      "heightCm": 173,
+      "heightScale": 1.01,
+      "build": "slender",
+      "palette": {
+        "skinToneHex": "#CD853F",
+        "skinShadowHex": "#A0522D",
+        "hairOrHijabHex": "#171717",
+        "primaryAttireHex": "#18181B",
+        "secondaryAttireHex": "#3F4E38",
+        "pantsColorHex": "#3F4E38",
+        "shoesColorHex": "#78350F",
+        "accentPropHex": "#F59E0B"
+      },
+      "hairStyle": "shoulder_length_wavy_ponytail",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kaus oblong katun hitam bertema pergerakan buruh",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "REZA K.",
+        "condition": "creased"
+      },
+      "footwear": "Sepatu gunung boot kanvas bertali cokelat",
+      "distinctiveFeatures": [
+        "Gelang tali etnik di pergelangan tangan",
+        "Rambut ikal tebal diikat ke belakang"
+      ],
+      "explicitAssumptions": [
+        "Celana cargo hijau lumut dengan banyak saku samping menegaskan latar belakang aktivis lapangan."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "hendro",
+    "fullName": "Hendro Setyawan",
+    "callSign": "Hendro",
+    "gender": "male",
+    "age": 22,
+    "laboratory": "Lab Metalografi & Preparasi Sampel",
+    "socioEconomicStatus": "Sederhana / Pengrajin Bengkel",
+    "archetypeRole": "The Unsung Craftsperson",
+    "primaryMotivation": "Menyelesaikan preparasi spesimen dengan presisi geometris tertinggi sesuai standar ASTM E23.",
+    "characterFlaw": "Terlalu pasif secara verbal; enggan membela diri saat karyanya dimanfaatkan atau diabaikan.",
+    "personalStakes": "Integritas craftsmanship kupon baja buatannya yang menjadi satu-satunya tumpuan kelulusan angkatan.",
+    "signatureProps": [
+      "mitutoyo_micrometer_analog",
+      "triangle_swiss_file",
+      "red_velvet_specimen_box",
+      "newspaper_fried_tofu"
+    ],
+    "visualProfile": {
+      "heightCm": 169,
+      "heightScale": 0.98,
+      "build": "stocky",
+      "palette": {
+        "skinToneHex": "#C68642",
+        "skinShadowHex": "#9C5B23",
+        "hairOrHijabHex": "#262626",
+        "primaryAttireHex": "#374151",
+        "secondaryAttireHex": "#475569",
+        "pantsColorHex": "#475569",
+        "shoesColorHex": "#1F2937",
+        "accentPropHex": "#9CA3AF"
+      },
+      "hairStyle": "short_practical_crew",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kaus oblong abu-abu tua kusam",
+      "labCoatDetails": {
+        "worn": false,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "HENDRO S. - METALOGRAFI",
+        "condition": "apron_substitute"
+      },
+      "footwear": "Sepatu kets tahan gesek sol tebal",
+      "distinctiveFeatures": [
+        "Celemek lab kain abu-abu berlumur oli",
+        "Kain lap majun di saku belakang",
+        "Bahu kekar membungkuk"
+      ],
+      "explicitAssumptions": [
+        "Mengenakan celemek lab abu-abu alih-alih jas lab putih standar karena pekerjaannya bersentuhan dengan pelumas dan mesin gerinda."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "farhan",
+    "fullName": "Farhan 'Kancil' Ramadhan",
+    "callSign": "Farhan",
+    "gender": "male",
+    "age": 22,
+    "laboratory": "Lab Pengelasan (Welding & NDT)",
+    "socioEconomicStatus": "Menengah Atas",
+    "archetypeRole": "The Street-Smart Hustler",
+    "primaryMotivation": "Mencari jalan keluar tercepat agar seluruh kelompok wisuda tepat waktu tanpa ada yang tertinggal.",
+    "characterFlaw": "Pragmatis tanpa kompas etis; menganggap manipulasi digital sebagai solusi cerdas tak berbahaya.",
+    "personalStakes": "Janji pada ibunya agar tiket bus pariwisata wisuda keluarga tidak hangus.",
+    "signatureProps": [
+      "sandisk_red_flashdrive",
+      "smartphone_whatsapp",
+      "honda_beat_motorcycle_keys"
+    ],
+    "visualProfile": {
+      "heightCm": 171,
+      "heightScale": 1.0,
+      "build": "slender",
+      "palette": {
+        "skinToneHex": "#D2A679",
+        "skinShadowHex": "#A87C52",
+        "hairOrHijabHex": "#171717",
+        "primaryAttireHex": "#18181B",
+        "secondaryAttireHex": "#FBBF24",
+        "pantsColorHex": "#27272A",
+        "shoesColorHex": "#E4E4E7",
+        "accentPropHex": "#EF4444"
+      },
+      "hairStyle": "modern_taper_fade_quiff",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Jaket bomber parasut hitam dengan ritsleting terbuka",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "FARHAN R.",
+        "condition": "clean"
+      },
+      "footwear": "Sneakers modern putih-abu-abu bertali neon",
+      "distinctiveFeatures": [
+        "Flashdisk merah di gantungan leher",
+        "Seringai cerdik santai",
+        "Sering duduk di meja komputer"
+      ],
+      "explicitAssumptions": [
+        "Jaket bomber parasut hitam di balik jas lab longgar menegaskan kebiasaannya yang selalu siap meluncur nongkrong di warkop."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "kevin",
+    "fullName": "Kevin Tanuwijaya",
+    "callSign": "Kevin",
+    "gender": "male",
+    "age": 21,
+    "laboratory": "Lab Karakterisasi Lanjut (Nanomaterial)",
+    "socioEconomicStatus": "Mapan / IPK 3.92",
+    "archetypeRole": "The Anxious Overachiever",
+    "primaryMotivation": "Menjaga kesempurnaan transkrip akademik demi beasiswa S2 luar negeri tanpa catatan etik.",
+    "characterFlaw": "Neurotik, cemas berlebihan, mudah panik saat menghadapi ketidakpastian non-linear.",
+    "personalStakes": "Aplikasi beasiswa master luar negeri yang gugur jika terjadi skorsing akademik atau keterlambatan yudisium.",
+    "signatureProps": [
+      "asus_zenbook_laptop",
+      "scientific_graph_calculator",
+      "astm_e23_pdf_reader"
+    ],
+    "visualProfile": {
+      "heightCm": 176,
+      "heightScale": 1.03,
+      "build": "slender",
+      "palette": {
+        "skinToneHex": "#F3D2B8",
+        "skinShadowHex": "#D1A589",
+        "hairOrHijabHex": "#0A0A0A",
+        "primaryAttireHex": "#60A5FA",
+        "secondaryAttireHex": "#93C5FD",
+        "pantsColorHex": "#64748B",
+        "shoesColorHex": "#18181B",
+        "accentPropHex": "#2563EB"
+      },
+      "hairStyle": "side_part_neat_groomed",
+      "headCovering": "none",
+      "glasses": "thin_wire",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kemeja katun bergaris halus biru-putih lengan digulung rapi di siku",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": true,
+        "drapedOverThighs": false,
+        "nameTagText": "KEVIN T. - DTMM ITS",
+        "condition": "clean"
+      },
+      "footwear": "Sepatu pantofel kulit Oxford bersih tanpa debu",
+      "distinctiveFeatures": [
+        "Kacamata kawat tipis yang sering dibetulkan",
+        "Jari mengetuk meja ritmis cemas"
+      ],
+      "explicitAssumptions": [
+        "Kacamata kawat tipis memantulkan rona kebiruan layar laptop pada Scene 1 dan 3."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "danang",
+    "fullName": "Danang Prasetyo",
+    "callSign": "Danang",
+    "gender": "male",
+    "age": 22,
+    "laboratory": "Lab Komposit Polimer & Material Serat Alam",
+    "socioEconomicStatus": "Menengah",
+    "archetypeRole": "The Conflict-Avoidant Peacemaker",
+    "primaryMotivation": "Menjaga kerukunan kelompok dan mencegah konflik fisik pecah di antara kawan-kawannya.",
+    "characterFlaw": "Netralitas toksik (toxic neutrality); enggan mengambil posisi tegas pada masalah prinsip etis.",
+    "personalStakes": "Keutuhan lingkaran persahabatan 14 orang yang telah terjalin selama empat tahun kuliah.",
+    "signatureProps": [
+      "mineral_water_1500ml",
+      "plastic_cups_stack",
+      "tea_cups_cardboard"
+    ],
+    "visualProfile": {
+      "heightCm": 170,
+      "heightScale": 0.99,
+      "build": "stocky",
+      "palette": {
+        "skinToneHex": "#C68B59",
+        "skinShadowHex": "#9E6738",
+        "hairOrHijabHex": "#1F2937",
+        "primaryAttireHex": "#6B7280",
+        "secondaryAttireHex": "#6EE7B7",
+        "pantsColorHex": "#1E293B",
+        "shoesColorHex": "#52525B",
+        "accentPropHex": "#0D9488"
+      },
+      "hairStyle": "curly_short_round_neat",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kaus polo katun warna abu-abu misty lembut",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "DANANG P.",
+        "condition": "clean"
+      },
+      "footwear": "Sandal selop kulit santai atau slip-on kanvas",
+      "distinctiveFeatures": [
+        "Wajah bulat ramah dengan senyum bersahabat",
+        "Selalu memegang botol air mineral 1.5L"
+      ],
+      "explicitAssumptions": [
+        "Tutup botol air mineral dibuka-tutup secara gugup saat ketegangan memuncak di Scene 3."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "zul",
+    "fullName": "Zulfikar 'Zul' Hakim",
+    "callSign": "Zul",
+    "gender": "male",
+    "age": 24,
+    "laboratory": "Lab Ekstraksi Metalurgi (Pengolahan Nikel)",
+    "socioEconomicStatus": "Sederhana (Mahasiswa Semester 12)",
+    "archetypeRole": "The Cynical Elder / The Realistic Survivor",
+    "primaryMotivation": "Menyaksikan akhir perjuangan yuniornya sekaligus mempertahankan martabat diri di batas akhir studi.",
+    "characterFlaw": "Sinis, menjaga jarak emosional, dan skeptis terhadap idealisme akademik.",
+    "personalStakes": "Surat Peringatan (SP) terakhir Rektorat ITS di semester 12; ancaman kegagalan permanen.",
+    "signatureProps": [
+      "tokai_green_lighter",
+      "worn_backpack_safety_pins",
+      "heavy_thesis_draft"
+    ],
+    "visualProfile": {
+      "heightCm": 178,
+      "heightScale": 1.04,
+      "build": "athletic",
+      "palette": {
+        "skinToneHex": "#B87333",
+        "skinShadowHex": "#8B4513",
+        "hairOrHijabHex": "#18181B",
+        "primaryAttireHex": "#78716C",
+        "secondaryAttireHex": "#92400E",
+        "pantsColorHex": "#292524",
+        "shoesColorHex": "#44403C",
+        "accentPropHex": "#16A34A"
+      },
+      "hairStyle": "long_tied_back_neck_bun",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": true,
+      "facialHairStyle": "thin_stubble_mustache_two_days",
+      "underlayerAttire": "Kemeja safari lapangan berkancing dua warna cokelat khaki usang",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "ZULFIKAR H.",
+        "condition": "oil_stained"
+      },
+      "footwear": "Sepatu boot kulit kerja proyek kusam bertali debu",
+      "distinctiveFeatures": [
+        "Paling tinggi di kelompok",
+        "Kumis tipis dua hari",
+        "Selalu bersandar di kusen pintu"
+      ],
+      "explicitAssumptions": [
+        "Selalu berdiri di batas ambang pintu (liminal space) menyimbolkan posisinya di ambang batas kelulusan semester 12."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "nadia",
+    "fullName": "Nadia Putri Anindya",
+    "callSign": "Nadia",
+    "gender": "female",
+    "age": 22,
+    "laboratory": "Lab Karakterisasi Struktur Kristal (XRD)",
+    "socioEconomicStatus": "Menengah / Peneliti Akademik",
+    "archetypeRole": "The Uncompromising Moral Zealot",
+    "primaryMotivation": "Menjaga integritas data empiris ilmiah murni demi etika profesi insinyur dan keselamatan publik.",
+    "characterFlaw": "Tanpa kompromi, kaku, dan siap membakar jembatan pertemanan demi menegakkan kebenaran absolut.",
+    "personalStakes": "Reputasi akademik sebagai calon peneliti BRIN/dosen yang pantang tercemar pemalsuan data.",
+    "signatureProps": [
+      "mitutoyo_digital_caliper",
+      "pocket_magnifier",
+      "thick_black_power_cable",
+      "grid_lab_notebook"
+    ],
+    "visualProfile": {
+      "heightCm": 162,
+      "heightScale": 0.94,
+      "build": "slender",
+      "palette": {
+        "skinToneHex": "#F0D5BA",
+        "skinShadowHex": "#C9AA8F",
+        "hairOrHijabHex": "#0F172A",
+        "primaryAttireHex": "#F8FAFC",
+        "secondaryAttireHex": "#38BDF8",
+        "pantsColorHex": "#09090B",
+        "shoesColorHex": "#18181B",
+        "accentPropHex": "#38BDF8"
+      },
+      "hairStyle": "hijab_concealed",
+      "headCovering": "jilbab_dark_navy",
+      "glasses": "frameless",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kemeja katun lengan panjang warna putih tulang bersih",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": true,
+        "drapedOverThighs": false,
+        "nameTagText": "NADIA P. A. - DTMM ITS",
+        "condition": "clean"
+      },
+      "footwear": "Sepatu pantofel flat kulit hitam bertali halus",
+      "distinctiveFeatures": [
+        "Jilbab dongker simetris tanpa kerut",
+        "Kacamata tanpa bingkai",
+        "Tatapan mata tajam lurus"
+      ],
+      "explicitAssumptions": [
+        "Jilbab biru dongker gelap dipadu kacamata frameless mencerminkan kepribadian ilmuwan yang analitis dan berintegritas tinggi."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "maya",
+    "fullName": "Maya Anggraini",
+    "callSign": "Maya",
+    "gender": "female",
+    "age": 22,
+    "laboratory": "Lab Biomaterial Medis (Implan Tulang & Hidroksiapatit)",
+    "socioEconomicStatus": "Menengah",
+    "archetypeRole": "The Empathetic Anchor / The Caregiver",
+    "primaryMotivation": "Menjaga kesehatan jiwa, kondisi fisik, dan martabat kemanusiaan di tengah tekanan akademik yang brutal.",
+    "characterFlaw": "Terlalu menyerap emosi negatif orang lain hingga mengabaikan kelelahan fisiknya sendiri.",
+    "personalStakes": "Kesehatan mental kawan-kawannya dan pencegahan trauma depresi berkepanjangan.",
+    "signatureProps": [
+      "cajuput_oil_bottle",
+      "dry_wet_tissues",
+      "warm_drinking_glass"
+    ],
+    "visualProfile": {
+      "heightCm": 160,
+      "heightScale": 0.93,
+      "build": "medium",
+      "palette": {
+        "skinToneHex": "#EBCBB0",
+        "skinShadowHex": "#C4A489",
+        "hairOrHijabHex": "#1E293B",
+        "primaryAttireHex": "#FBCFE8",
+        "secondaryAttireHex": "#EC4899",
+        "pantsColorHex": "#64748B",
+        "shoesColorHex": "#F1F5F9",
+        "accentPropHex": "#10B981"
+      },
+      "hairStyle": "neat_ponytail_black_scrunchie",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Blus katun rajut lembut warna merah muda pastel",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "MAYA A.",
+        "condition": "clean"
+      },
+      "footwear": "Sepatu sneakers kanvas putih bersih bertali lembut",
+      "distinctiveFeatures": [
+        "Wajah teduh penuh empati",
+        "Minyak kayu putih di saku jas lab",
+        "Gestur merangkul kawan tertekan"
+      ],
+      "explicitAssumptions": [
+        "Blus merah muda pastel di balik jas lab mencerminkan orientasi keilmuan medis yang sarat empati kemanusiaan."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "rere",
+    "fullName": "Siti Rahma 'Rere'",
+    "callSign": "Rere",
+    "gender": "female",
+    "age": 22,
+    "laboratory": "Lab Korosi Lingkungan & Pelapisan Pelindung",
+    "socioEconomicStatus": "Prasejahtera (Penerima KIP-Kuliah)",
+    "archetypeRole": "The Fierce Class Warrior",
+    "primaryMotivation": "Membela hak mahasiswa prasejahtera melawan dominasi kekuasaan modal di kampus negeri.",
+    "characterFlaw": "Agresif, curiga berlebihan terhadap motif orang yang lebih mampu, dan cepat terprovokasi.",
+    "personalStakes": "Keadilan sosial bagi kaum buruh tani pedesaan yang menitipkan harapan pada dirinya.",
+    "signatureProps": [
+      "kip_kuliah_laminated_card",
+      "folio_batch_binder",
+      "seminar_cloth_backpack"
+    ],
+    "visualProfile": {
+      "heightCm": 156,
+      "heightScale": 0.92,
+      "build": "slender",
+      "palette": {
+        "skinToneHex": "#C68642",
+        "skinShadowHex": "#9E6226",
+        "hairOrHijabHex": "#64748B",
+        "primaryAttireHex": "#C2410C",
+        "secondaryAttireHex": "#FDE047",
+        "pantsColorHex": "#1E293B",
+        "shoesColorHex": "#334155",
+        "accentPropHex": "#EA580C"
+      },
+      "hairStyle": "hijab_concealed",
+      "headCovering": "jilbab_light_grey",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kaus lengan panjang katun warna oranye bata gelap",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": false,
+        "drapedOverThighs": false,
+        "nameTagText": "SITI RAHMA",
+        "condition": "creased"
+      },
+      "footwear": "Sepatu kets kanvas bertali usang dengan sol yang dilem ulang",
+      "distinctiveFeatures": [
+        "Paling mungil di kelompok",
+        "Lengan jas lab terlipat dua kali",
+        "Vokal lantang tanpa gentar"
+      ],
+      "explicitAssumptions": [
+        "Lengan jas lab dilipat dua kali untuk menegaskan tubuhnya yang mungil serta jas lab warisan kakak tingkat."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  },
+  {
+    "id": "kirana",
+    "fullName": "Kirana Dewi",
+    "callSign": "Kirana",
+    "gender": "female",
+    "age": 22,
+    "laboratory": "Lab Analisis Kegagalan & Forensik Material",
+    "socioEconomicStatus": "Mapan / Relasi Industri Baja",
+    "archetypeRole": "The Pragmatic Industrial Liaison",
+    "primaryMotivation": "Mengamankan reputasi profesional almamater dan memastikan serapan kerja alumni di industri berat.",
+    "characterFlaw": "Transaksional dan mengabaikan dimensi spiritual sebelum menyaksikan keikhlasan nyata.",
+    "personalStakes": "Kepercayaan konsorsium pabrik pipa baja rekanan riset terhadap kualitas lulusan DTMM ITS.",
+    "signatureProps": [
+      "leather_industrial_portfolio",
+      "leather_cover_smartphone",
+      "steel_pipe_consortium_contact"
+    ],
+    "visualProfile": {
+      "heightCm": 165,
+      "heightScale": 0.96,
+      "build": "medium",
+      "palette": {
+        "skinToneHex": "#F5D6BA",
+        "skinShadowHex": "#CEAFA3",
+        "hairOrHijabHex": "#0F172A",
+        "primaryAttireHex": "#C084FC",
+        "secondaryAttireHex": "#312E81",
+        "pantsColorHex": "#0F172A",
+        "shoesColorHex": "#18181B",
+        "accentPropHex": "#C084FC"
+      },
+      "hairStyle": "shoulder_bob_neat_behind_ears",
+      "headCovering": "none",
+      "glasses": "none",
+      "hasFacialHair": false,
+      "underlayerAttire": "Kemeja blus kerja formal sutra katun berkerah warna ungu lavender",
+      "labCoatDetails": {
+        "worn": true,
+        "buttoned": true,
+        "drapedOverThighs": false,
+        "nameTagText": "KIRANA D. - DTMM FTIRS ITS",
+        "condition": "clean"
+      },
+      "footwear": "Sepatu flat kulit hitam resmi mengkilap",
+      "distinctiveFeatures": [
+        "Penampilan anggun korporat",
+        "Jam tangan rantai stainless feminin",
+        "Pembawaan tenang terukur"
+      ],
+      "explicitAssumptions": [
+        "Blus lavender sutra katun dan nametag logam kuningan mencerminkan posisinya sebagai asisten riset mitra industri."
+      ],
+      "supportedExpressions": [
+        "Normal",
+        "Happy",
+        "Sad",
+        "Angry",
+        "Confused",
+        "Nervous",
+        "Suspicious",
+        "Shocked",
+        "Disappointed",
+        "Serious"
+      ],
+      "supportedPoses": [
+        "idle",
+        "walking",
+        "sitting",
+        "standing",
+        "head_movement",
+        "looking_left",
+        "looking_right",
+        "talking"
+      ]
+    }
+  }
+]
